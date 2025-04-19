@@ -1,0 +1,911 @@
+12:37:21 - INFO: ----- Starting Training - Episodes: 400 -----
+12:37:29 - INFO: Episode: 0 - Episode steps: 1000 - Total steps: 1000 - Reward: -66.3299663299668 - Avg Reward: -66.3299663299668
+12:37:29 - INFO: ----- Saved Model Checkpoint -----
+12:37:30 - INFO: Episode: 1 - Episode steps: 156 - Total steps: 1156 - Reward: -78.4629629629631 - Avg Reward: -72.39646464646495
+12:37:36 - INFO: Episode: 2 - Episode steps: 793 - Total steps: 1949 - Reward: -157.393146417446 - Avg Reward: -100.72869190345864
+12:37:43 - INFO: Episode: 3 - Episode steps: 1000 - Total steps: 2949 - Reward: -85.18518518518462 - Avg Reward: -96.84281522389014
+12:37:47 - INFO: Episode: 4 - Episode steps: 595 - Total steps: 3544 - Reward: -117.73333333333319 - Avg Reward: -101.02091884577875
+12:37:55 - INFO: Episode: 5 - Episode steps: 1000 - Total steps: 4544 - Reward: -65.11627906976808 - Avg Reward: -95.03681221644364
+12:38:02 - INFO: Episode: 6 - Episode steps: 1000 - Total steps: 5544 - Reward: -59.86622073578701 - Avg Reward: -90.01244200492125
+12:38:09 - INFO: Episode: 7 - Episode steps: 1000 - Total steps: 6544 - Reward: -13.357400722021776 - Avg Reward: -80.43056184455882
+12:38:17 - INFO: Episode: 8 - Episode steps: 1000 - Total steps: 7544 - Reward: -75.94501718213056 - Avg Reward: -79.9321679931779
+12:38:24 - INFO: Episode: 9 - Episode steps: 1000 - Total steps: 8544 - Reward: -93.65079365079261 - Avg Reward: -81.30403055893937
+12:38:31 - INFO: Episode: 10 - Episode steps: 1000 - Total steps: 9544 - Reward: -71.15384615384636 - Avg Reward: -80.38128652211275
+12:38:46 - INFO: Episode: 11 - Episode steps: 1000 - Total steps: 10544 - Reward: -23.913043478261503 - Avg Reward: -75.6755996017918
+12:39:07 - INFO: Episode: 12 - Episode steps: 1000 - Total steps: 11544 - Reward: -85.55956678700299 - Avg Reward: -76.43590476988497
+12:39:28 - INFO: Episode: 13 - Episode steps: 1000 - Total steps: 12544 - Reward: -86.3945578231286 - Avg Reward: -77.14723713083094
+12:39:49 - INFO: Episode: 14 - Episode steps: 1000 - Total steps: 13544 - Reward: -82.1428571428567 - Avg Reward: -77.48027846496599
+12:40:10 - INFO: Episode: 15 - Episode steps: 1000 - Total steps: 14544 - Reward: -69.92481203007567 - Avg Reward: -77.00806181278534
+12:40:31 - INFO: Episode: 16 - Episode steps: 1000 - Total steps: 15544 - Reward: -71.96261682243008 - Avg Reward: -76.71127093099975
+12:40:53 - INFO: Episode: 17 - Episode steps: 1000 - Total steps: 16544 - Reward: -85.11904761904702 - Avg Reward: -77.17836963589126
+12:41:14 - INFO: Episode: 18 - Episode steps: 1000 - Total steps: 17544 - Reward: -83.87096774193496 - Avg Reward: -77.5306116414725
+12:41:35 - INFO: Episode: 19 - Episode steps: 1000 - Total steps: 18544 - Reward: -60.13289036544915 - Avg Reward: -76.66072557767134
+12:41:56 - INFO: Episode: 20 - Episode steps: 1000 - Total steps: 19544 - Reward: -78.81355932203367 - Avg Reward: -76.76324147026001
+12:42:17 - INFO: Episode: 21 - Episode steps: 1000 - Total steps: 20544 - Reward: -13.669064748201603 - Avg Reward: -73.89532434653009
+12:42:38 - INFO: Episode: 22 - Episode steps: 1000 - Total steps: 21544 - Reward: -80.98859315589316 - Avg Reward: -74.20372733824152
+12:42:59 - INFO: Episode: 23 - Episode steps: 1000 - Total steps: 22544 - Reward: -83.38870431893638 - Avg Reward: -74.58643471243715
+12:43:21 - INFO: Episode: 24 - Episode steps: 1000 - Total steps: 23544 - Reward: -61.538461538462215 - Avg Reward: -74.06451578547815
+12:43:42 - INFO: Episode: 25 - Episode steps: 1000 - Total steps: 24544 - Reward: -70.76023391812898 - Avg Reward: -73.93742802134933
+12:44:04 - INFO: Episode: 26 - Episode steps: 1000 - Total steps: 25544 - Reward: -44.63667820069285 - Avg Reward: -72.85221506502873
+12:44:25 - INFO: Episode: 27 - Episode steps: 1000 - Total steps: 26544 - Reward: -66.99669966996761 - Avg Reward: -72.64308951520512
+12:44:47 - INFO: Episode: 28 - Episode steps: 1000 - Total steps: 27544 - Reward: -79.7979797979795 - Avg Reward: -72.88980986978355
+12:45:09 - INFO: Episode: 29 - Episode steps: 1000 - Total steps: 28544 - Reward: -48.09688581314959 - Avg Reward: -72.06337906789575
+12:45:30 - INFO: Episode: 30 - Episode steps: 1000 - Total steps: 29544 - Reward: -57.69230769230852 - Avg Reward: -71.59979612029616
+12:45:52 - INFO: Episode: 31 - Episode steps: 1000 - Total steps: 30544 - Reward: -66.16541353383526 - Avg Reward: -71.42997166446925
+12:46:14 - INFO: Episode: 32 - Episode steps: 1000 - Total steps: 31544 - Reward: -78.41726618705015 - Avg Reward: -71.64170786212321
+12:46:20 - INFO: Episode: 33 - Episode steps: 274 - Total steps: 31818 - Reward: 9.954901960785278 - Avg Reward: -69.24180757321415
+12:46:41 - INFO: Episode: 34 - Episode steps: 1000 - Total steps: 32818 - Reward: -14.965986394558362 - Avg Reward: -67.69106982525255
+12:47:03 - INFO: Episode: 35 - Episode steps: 1000 - Total steps: 33818 - Reward: -56.386292834891776 - Avg Reward: -67.37704824218697
+12:47:26 - INFO: Episode: 36 - Episode steps: 1000 - Total steps: 34818 - Reward: -58.730158730159545 - Avg Reward: -67.14334852564569
+12:47:46 - INFO: Episode: 37 - Episode steps: 1000 - Total steps: 35818 - Reward: 2.459016393443541 - Avg Reward: -65.3117073435644
+12:47:46 - INFO: ----- Saved Model Checkpoint -----
+12:48:08 - INFO: Episode: 38 - Episode steps: 1000 - Total steps: 36818 - Reward: 30.584192439865284 - Avg Reward: -62.85283811834826
+12:48:08 - INFO: ----- Saved Model Checkpoint -----
+12:48:29 - INFO: Episode: 39 - Episode steps: 1000 - Total steps: 37818 - Reward: -46.031746031746835 - Avg Reward: -62.43231081618321
+12:48:29 - INFO: ----- Saved Model Checkpoint -----
+12:48:51 - INFO: Episode: 40 - Episode steps: 1000 - Total steps: 38818 - Reward: 62.629757785471824 - Avg Reward: -59.38201646004529
+12:48:51 - INFO: ----- Saved Model Checkpoint -----
+12:49:12 - INFO: Episode: 41 - Episode steps: 1000 - Total steps: 39818 - Reward: -37.00787401574886 - Avg Reward: -58.84929878280013
+12:49:12 - INFO: ----- Saved Model Checkpoint -----
+12:49:33 - INFO: Episode: 42 - Episode steps: 1000 - Total steps: 40818 - Reward: -44.05594405594487 - Avg Reward: -58.50526727752443
+12:49:33 - INFO: ----- Saved Model Checkpoint -----
+12:49:55 - INFO: Episode: 43 - Episode steps: 1000 - Total steps: 41818 - Reward: -30.89430894309027 - Avg Reward: -57.877745497196386
+12:49:55 - INFO: ----- Saved Model Checkpoint -----
+12:50:16 - INFO: Episode: 44 - Episode steps: 1000 - Total steps: 42818 - Reward: -50.33112582781539 - Avg Reward: -57.71004283787681
+12:50:16 - INFO: ----- Saved Model Checkpoint -----
+12:50:37 - INFO: Episode: 45 - Episode steps: 1000 - Total steps: 43818 - Reward: -42.44604316546843 - Avg Reward: -57.378216758041845
+12:50:38 - INFO: ----- Saved Model Checkpoint -----
+12:50:59 - INFO: Episode: 46 - Episode steps: 1000 - Total steps: 44818 - Reward: 31.67259786477149 - Avg Reward: -55.48351857457773
+12:50:59 - INFO: ----- Saved Model Checkpoint -----
+12:51:21 - INFO: Episode: 47 - Episode steps: 1000 - Total steps: 45818 - Reward: -86.62207357859464 - Avg Reward: -56.13223847049475
+12:51:42 - INFO: Episode: 48 - Episode steps: 1000 - Total steps: 46818 - Reward: -22.5092250922515 - Avg Reward: -55.44605452399999
+12:51:42 - INFO: ----- Saved Model Checkpoint -----
+12:52:03 - INFO: Episode: 49 - Episode steps: 1000 - Total steps: 47818 - Reward: 7.594936708861825 - Avg Reward: -54.18523469934276
+12:52:03 - INFO: ----- Saved Model Checkpoint -----
+12:52:24 - INFO: Episode: 50 - Episode steps: 1000 - Total steps: 48818 - Reward: -63.696369636964505 - Avg Reward: -54.3717275412569
+12:52:45 - INFO: Episode: 51 - Episode steps: 1000 - Total steps: 49818 - Reward: -56.67870036101164 - Avg Reward: -54.41609240317526
+12:53:06 - INFO: Episode: 52 - Episode steps: 1000 - Total steps: 50818 - Reward: -52.02952029520376 - Avg Reward: -54.371062740760706
+12:53:27 - INFO: Episode: 53 - Episode steps: 1000 - Total steps: 51818 - Reward: -33.96226415094417 - Avg Reward: -53.99312202613447
+12:53:27 - INFO: ----- Saved Model Checkpoint -----
+12:53:48 - INFO: Episode: 54 - Episode steps: 1000 - Total steps: 52818 - Reward: -23.913043478261617 - Avg Reward: -53.44621150708224
+12:53:48 - INFO: ----- Saved Model Checkpoint -----
+12:54:09 - INFO: Episode: 55 - Episode steps: 1000 - Total steps: 53818 - Reward: 32.65306122449259 - Avg Reward: -51.90872449401841
+12:54:09 - INFO: ----- Saved Model Checkpoint -----
+12:54:30 - INFO: Episode: 56 - Episode steps: 1000 - Total steps: 54818 - Reward: 69.43521594684893 - Avg Reward: -49.77988343365231
+12:54:31 - INFO: ----- Saved Model Checkpoint -----
+12:54:52 - INFO: Episode: 57 - Episode steps: 1000 - Total steps: 55818 - Reward: 11.913357400723365 - Avg Reward: -48.71620686754239
+12:54:52 - INFO: ----- Saved Model Checkpoint -----
+12:55:13 - INFO: Episode: 58 - Episode steps: 1000 - Total steps: 56818 - Reward: -19.732441471572404 - Avg Reward: -48.224956606593736
+12:55:14 - INFO: ----- Saved Model Checkpoint -----
+12:55:35 - INFO: Episode: 59 - Episode steps: 1000 - Total steps: 57818 - Reward: 8.552631578948533 - Avg Reward: -47.278663470168034
+12:55:35 - INFO: ----- Saved Model Checkpoint -----
+12:55:56 - INFO: Episode: 60 - Episode steps: 1000 - Total steps: 58818 - Reward: 16.838487972510407 - Avg Reward: -46.22756262684544
+12:55:56 - INFO: ----- Saved Model Checkpoint -----
+12:56:18 - INFO: Episode: 61 - Episode steps: 1000 - Total steps: 59818 - Reward: -1.7341040462420867 - Avg Reward: -45.50992619812603
+12:56:18 - INFO: ----- Saved Model Checkpoint -----
+12:56:40 - INFO: Episode: 62 - Episode steps: 1000 - Total steps: 60818 - Reward: 8.552631578948661 - Avg Reward: -44.651790360394685
+12:56:40 - INFO: ----- Saved Model Checkpoint -----
+12:57:02 - INFO: Episode: 63 - Episode steps: 1000 - Total steps: 61818 - Reward: -38.35616438356244 - Avg Reward: -44.55342120450668
+12:57:02 - INFO: ----- Saved Model Checkpoint -----
+12:57:24 - INFO: Episode: 64 - Episode steps: 1000 - Total steps: 62818 - Reward: -66.16541353383526 - Avg Reward: -44.885913394188655
+12:57:46 - INFO: Episode: 65 - Episode steps: 1000 - Total steps: 63818 - Reward: 39.24050632911734 - Avg Reward: -43.611270671108265
+12:57:46 - INFO: ----- Saved Model Checkpoint -----
+12:58:08 - INFO: Episode: 66 - Episode steps: 1000 - Total steps: 64818 - Reward: -31.558935361217554 - Avg Reward: -43.43138506946811
+12:58:08 - INFO: ----- Saved Model Checkpoint -----
+12:58:30 - INFO: Episode: 67 - Episode steps: 1000 - Total steps: 65818 - Reward: -25.170068027211588 - Avg Reward: -43.16283628943492
+12:58:30 - INFO: ----- Saved Model Checkpoint -----
+12:58:52 - INFO: Episode: 68 - Episode steps: 1000 - Total steps: 66818 - Reward: 67.83216783217246 - Avg Reward: -41.55421304129568
+12:58:52 - INFO: ----- Saved Model Checkpoint -----
+12:59:14 - INFO: Episode: 69 - Episode steps: 1000 - Total steps: 67818 - Reward: 103.92156862745574 - Avg Reward: -39.47598758888495
+12:59:14 - INFO: ----- Saved Model Checkpoint -----
+12:59:36 - INFO: Episode: 70 - Episode steps: 1000 - Total steps: 68818 - Reward: 14.803625377645112 - Avg Reward: -38.71148599780707
+12:59:36 - INFO: ----- Saved Model Checkpoint -----
+12:59:59 - INFO: Episode: 71 - Episode steps: 1000 - Total steps: 69818 - Reward: -16.890080428955176 - Avg Reward: -38.4084109204619
+12:59:59 - INFO: ----- Saved Model Checkpoint -----
+01:00:21 - INFO: Episode: 72 - Episode steps: 1000 - Total steps: 70818 - Reward: 26.48221343873759 - Avg Reward: -37.51949825800711
+01:00:21 - INFO: ----- Saved Model Checkpoint -----
+01:00:43 - INFO: Episode: 73 - Episode steps: 1000 - Total steps: 71818 - Reward: 18.88111888112077 - Avg Reward: -36.757327756127
+01:00:43 - INFO: ----- Saved Model Checkpoint -----
+01:01:05 - INFO: Episode: 74 - Episode steps: 1000 - Total steps: 72818 - Reward: -32.432432432433224 - Avg Reward: -36.699662485144415
+01:01:05 - INFO: ----- Saved Model Checkpoint -----
+01:01:28 - INFO: Episode: 75 - Episode steps: 1000 - Total steps: 73818 - Reward: 14.64968152866211 - Avg Reward: -36.02401322180486
+01:01:28 - INFO: ----- Saved Model Checkpoint -----
+01:01:50 - INFO: Episode: 76 - Episode steps: 1000 - Total steps: 74818 - Reward: 70.90909090909588 - Avg Reward: -34.63527160971523
+01:01:50 - INFO: ----- Saved Model Checkpoint -----
+01:02:12 - INFO: Episode: 77 - Episode steps: 1000 - Total steps: 75818 - Reward: 16.040955631401076 - Avg Reward: -33.98557638867528
+01:02:12 - INFO: ----- Saved Model Checkpoint -----
+01:02:34 - INFO: Episode: 78 - Episode steps: 1000 - Total steps: 76818 - Reward: 152.59515570934744 - Avg Reward: -31.623794969712964
+01:02:35 - INFO: ----- Saved Model Checkpoint -----
+01:02:58 - INFO: Episode: 79 - Episode steps: 1000 - Total steps: 77818 - Reward: -6.8965517241384084 - Avg Reward: -31.31470442914329
+01:02:58 - INFO: ----- Saved Model Checkpoint -----
+01:03:19 - INFO: Episode: 80 - Episode steps: 1000 - Total steps: 78818 - Reward: 37.809187279155125 - Avg Reward: -30.461323050028493
+01:03:20 - INFO: ----- Saved Model Checkpoint -----
+01:03:42 - INFO: Episode: 81 - Episode steps: 1000 - Total steps: 79818 - Reward: 126.76579925650734 - Avg Reward: -28.543919119460984
+01:03:42 - INFO: ----- Saved Model Checkpoint -----
+01:04:04 - INFO: Episode: 82 - Episode steps: 1000 - Total steps: 80818 - Reward: 58.33333333333811 - Avg Reward: -27.497205234487502
+01:04:04 - INFO: ----- Saved Model Checkpoint -----
+01:04:26 - INFO: Episode: 83 - Episode steps: 1000 - Total steps: 81818 - Reward: 186.6666666666706 - Avg Reward: -24.947635330902287
+01:04:26 - INFO: ----- Saved Model Checkpoint -----
+01:04:49 - INFO: Episode: 84 - Episode steps: 1000 - Total steps: 82818 - Reward: 11.111111111112644 - Avg Reward: -24.52341478452564
+01:04:49 - INFO: ----- Saved Model Checkpoint -----
+01:05:12 - INFO: Episode: 85 - Episode steps: 1000 - Total steps: 83818 - Reward: 20.689655172415897 - Avg Reward: -23.9976814129333
+01:05:12 - INFO: ----- Saved Model Checkpoint -----
+01:05:34 - INFO: Episode: 86 - Episode steps: 1000 - Total steps: 84818 - Reward: 33.33333333333639 - Avg Reward: -23.338704231941694
+01:05:34 - INFO: ----- Saved Model Checkpoint -----
+01:05:57 - INFO: Episode: 87 - Episode steps: 1000 - Total steps: 85818 - Reward: 162.5899280575577 - Avg Reward: -21.225878865015563
+01:05:57 - INFO: ----- Saved Model Checkpoint -----
+01:06:19 - INFO: Episode: 88 - Episode steps: 1000 - Total steps: 86818 - Reward: -40.298507462687375 - Avg Reward: -21.440178062742213
+01:06:42 - INFO: Episode: 89 - Episode steps: 1000 - Total steps: 87818 - Reward: 297.4358974358995 - Avg Reward: -17.89711055720175
+01:06:42 - INFO: ----- Saved Model Checkpoint -----
+01:07:04 - INFO: Episode: 90 - Episode steps: 1000 - Total steps: 88818 - Reward: 52.02702702703121 - Avg Reward: -17.1287134408915
+01:07:04 - INFO: ----- Saved Model Checkpoint -----
+01:07:26 - INFO: Episode: 91 - Episode steps: 1000 - Total steps: 89818 - Reward: -17.24137931034492 - Avg Reward: -17.129938069907297
+01:07:48 - INFO: Episode: 92 - Episode steps: 1000 - Total steps: 90818 - Reward: -2.4390243902432367 - Avg Reward: -16.971971256147466
+01:07:48 - INFO: ----- Saved Model Checkpoint -----
+01:08:09 - INFO: Episode: 93 - Episode steps: 1000 - Total steps: 91818 - Reward: 4.729729729730815 - Avg Reward: -16.741102096723232
+01:08:10 - INFO: ----- Saved Model Checkpoint -----
+01:08:31 - INFO: Episode: 94 - Episode steps: 1000 - Total steps: 92818 - Reward: 15.384615384617069 - Avg Reward: -16.40293664955123
+01:08:31 - INFO: ----- Saved Model Checkpoint -----
+01:08:52 - INFO: Episode: 95 - Episode steps: 1000 - Total steps: 93818 - Reward: 66.66666666667166 - Avg Reward: -15.537628281673904
+01:08:53 - INFO: ----- Saved Model Checkpoint -----
+01:09:14 - INFO: Episode: 96 - Episode steps: 1000 - Total steps: 94818 - Reward: 2.564102564103591 - Avg Reward: -15.35101249975867
+01:09:15 - INFO: ----- Saved Model Checkpoint -----
+01:09:37 - INFO: Episode: 97 - Episode steps: 1000 - Total steps: 95818 - Reward: 2.941176470589277 - Avg Reward: -15.164357510265326
+01:09:37 - INFO: ----- Saved Model Checkpoint -----
+01:09:58 - INFO: Episode: 98 - Episode steps: 1000 - Total steps: 96818 - Reward: 33.55048859935156 - Avg Reward: -14.672288357642932
+01:09:58 - INFO: ----- Saved Model Checkpoint -----
+01:10:20 - INFO: Episode: 99 - Episode steps: 1000 - Total steps: 97818 - Reward: 211.59420289854805 - Avg Reward: -12.409623445081023
+01:10:20 - INFO: ----- Saved Model Checkpoint -----
+01:10:43 - INFO: Episode: 100 - Episode steps: 1000 - Total steps: 98818 - Reward: -12.912912912912846 - Avg Reward: -11.875452910910486
+01:10:43 - INFO: ----- Saved Model Checkpoint -----
+01:11:05 - INFO: Episode: 101 - Episode steps: 1000 - Total steps: 99818 - Reward: 0.35842293906898737 - Avg Reward: -11.087239051890162
+01:11:05 - INFO: ----- Saved Model Checkpoint -----
+01:11:26 - INFO: Episode: 102 - Episode steps: 1000 - Total steps: 100818 - Reward: 46.42857142857528 - Avg Reward: -9.04902187342995
+01:11:26 - INFO: ----- Saved Model Checkpoint -----
+01:11:48 - INFO: Episode: 103 - Episode steps: 1000 - Total steps: 101818 - Reward: 14.583333333335082 - Avg Reward: -8.051336688244753
+01:11:48 - INFO: ----- Saved Model Checkpoint -----
+01:12:10 - INFO: Episode: 104 - Episode steps: 1000 - Total steps: 102818 - Reward: -16.93290734824291 - Avg Reward: -7.04333242839385
+01:12:10 - INFO: ----- Saved Model Checkpoint -----
+01:12:35 - INFO: Episode: 105 - Episode steps: 1000 - Total steps: 103818 - Reward: 23.745819397995696 - Avg Reward: -6.154711443716212
+01:12:35 - INFO: ----- Saved Model Checkpoint -----
+01:12:57 - INFO: Episode: 106 - Episode steps: 1000 - Total steps: 104818 - Reward: -8.309455587392192 - Avg Reward: -5.639143792232265
+01:12:58 - INFO: ----- Saved Model Checkpoint -----
+01:13:20 - INFO: Episode: 107 - Episode steps: 1000 - Total steps: 105818 - Reward: 4.477611940299674 - Avg Reward: -5.460793665609049
+01:13:20 - INFO: ----- Saved Model Checkpoint -----
+01:13:42 - INFO: Episode: 108 - Episode steps: 1000 - Total steps: 106818 - Reward: -71.11913357400753 - Avg Reward: -5.412534829527818
+01:13:43 - INFO: ----- Saved Model Checkpoint -----
+01:14:05 - INFO: Episode: 109 - Episode steps: 1000 - Total steps: 107818 - Reward: -27.835051546392567 - Avg Reward: -4.754377408483818
+01:14:05 - INFO: ----- Saved Model Checkpoint -----
+01:14:28 - INFO: Episode: 110 - Episode steps: 1000 - Total steps: 108818 - Reward: -46.61921708185135 - Avg Reward: -4.509031117763869
+01:14:29 - INFO: ----- Saved Model Checkpoint -----
+01:14:51 - INFO: Episode: 111 - Episode steps: 1000 - Total steps: 109818 - Reward: -6.6666666666675525 - Avg Reward: -4.336567349647929
+01:14:51 - INFO: ----- Saved Model Checkpoint -----
+01:15:14 - INFO: Episode: 112 - Episode steps: 1000 - Total steps: 110818 - Reward: -21.568627450980845 - Avg Reward: -3.696657956287707
+01:15:14 - INFO: ----- Saved Model Checkpoint -----
+01:15:36 - INFO: Episode: 113 - Episode steps: 1000 - Total steps: 111818 - Reward: -6.137184115524407 - Avg Reward: -2.894084219211666
+01:15:37 - INFO: ----- Saved Model Checkpoint -----
+01:15:59 - INFO: Episode: 114 - Episode steps: 1000 - Total steps: 112818 - Reward: 12.403100775195277 - Avg Reward: -1.9486246400311464
+01:15:59 - INFO: ----- Saved Model Checkpoint -----
+01:16:21 - INFO: Episode: 115 - Episode steps: 1000 - Total steps: 113818 - Reward: -9.420289855072156 - Avg Reward: -1.343579418281112
+01:16:21 - INFO: ----- Saved Model Checkpoint -----
+01:16:43 - INFO: Episode: 116 - Episode steps: 1000 - Total steps: 114818 - Reward: -16.955017301038158 - Avg Reward: -0.793503423067193
+01:16:43 - INFO: ----- Saved Model Checkpoint -----
+01:17:06 - INFO: Episode: 117 - Episode steps: 1000 - Total steps: 115818 - Reward: 8.695652173914201 - Avg Reward: 0.1446435748624193
+01:17:06 - INFO: ----- Saved Model Checkpoint -----
+01:17:28 - INFO: Episode: 118 - Episode steps: 1000 - Total steps: 116818 - Reward: 98.44357976654192 - Avg Reward: 1.9677890499471886
+01:17:28 - INFO: ----- Saved Model Checkpoint -----
+01:17:51 - INFO: Episode: 119 - Episode steps: 1000 - Total steps: 117818 - Reward: -18.75000000000026 - Avg Reward: 2.381617953601678
+01:17:51 - INFO: ----- Saved Model Checkpoint -----
+01:18:14 - INFO: Episode: 120 - Episode steps: 1000 - Total steps: 118818 - Reward: 277.2241992882556 - Avg Reward: 5.941995539704571
+01:18:14 - INFO: ----- Saved Model Checkpoint -----
+01:18:37 - INFO: Episode: 121 - Episode steps: 1000 - Total steps: 119818 - Reward: 4.026845637584998 - Avg Reward: 6.118954643562437
+01:18:37 - INFO: ----- Saved Model Checkpoint -----
+01:18:43 - INFO: Episode: 122 - Episode steps: 267 - Total steps: 120085 - Reward: 7.675618374559193 - Avg Reward: 7.00559675886696
+01:18:43 - INFO: ----- Saved Model Checkpoint -----
+01:19:06 - INFO: Episode: 123 - Episode steps: 1000 - Total steps: 121085 - Reward: 50.53763440860633 - Avg Reward: 8.344860146142388
+01:19:06 - INFO: ----- Saved Model Checkpoint -----
+01:19:29 - INFO: Episode: 124 - Episode steps: 1000 - Total steps: 122085 - Reward: -27.586206896552522 - Avg Reward: 8.684382692561483
+01:19:29 - INFO: ----- Saved Model Checkpoint -----
+01:19:52 - INFO: Episode: 125 - Episode steps: 1000 - Total steps: 123085 - Reward: 216.36363636363095 - Avg Reward: 11.555621395379083
+01:19:52 - INFO: ----- Saved Model Checkpoint -----
+01:20:15 - INFO: Episode: 126 - Episode steps: 1000 - Total steps: 124085 - Reward: 69.43521594684869 - Avg Reward: 12.696340336854501
+01:20:15 - INFO: ----- Saved Model Checkpoint -----
+01:20:38 - INFO: Episode: 127 - Episode steps: 1000 - Total steps: 125085 - Reward: 35.31353135313818 - Avg Reward: 13.719442647085557
+01:20:38 - INFO: ----- Saved Model Checkpoint -----
+01:21:01 - INFO: Episode: 128 - Episode steps: 1000 - Total steps: 126085 - Reward: 51.408450704229594 - Avg Reward: 15.03150695210765
+01:21:01 - INFO: ----- Saved Model Checkpoint -----
+01:21:24 - INFO: Episode: 129 - Episode steps: 1000 - Total steps: 127085 - Reward: 39.68253968254311 - Avg Reward: 15.909301207064578
+01:21:24 - INFO: ----- Saved Model Checkpoint -----
+01:21:47 - INFO: Episode: 130 - Episode steps: 1000 - Total steps: 128085 - Reward: 457.62081784385896 - Avg Reward: 21.06243246242625
+01:21:47 - INFO: ----- Saved Model Checkpoint -----
+01:22:10 - INFO: Episode: 131 - Episode steps: 1000 - Total steps: 129085 - Reward: 31.49847094801511 - Avg Reward: 22.039071307244754
+01:22:10 - INFO: ----- Saved Model Checkpoint -----
+01:22:32 - INFO: Episode: 132 - Episode steps: 1000 - Total steps: 130085 - Reward: 48.60681114551481 - Avg Reward: 23.309312080570404
+01:22:32 - INFO: ----- Saved Model Checkpoint -----
+01:22:54 - INFO: Episode: 133 - Episode steps: 1000 - Total steps: 131085 - Reward: -3.3333333333326878 - Avg Reward: 23.17642972762922
+01:23:17 - INFO: Episode: 134 - Episode steps: 1000 - Total steps: 132085 - Reward: 31.41025641025918 - Avg Reward: 23.640192155677397
+01:23:17 - INFO: ----- Saved Model Checkpoint -----
+01:23:39 - INFO: Episode: 135 - Episode steps: 1000 - Total steps: 133085 - Reward: -0.3322259136204732 - Avg Reward: 24.20073282489011
+01:23:39 - INFO: ----- Saved Model Checkpoint -----
+01:24:02 - INFO: Episode: 136 - Episode steps: 1000 - Total steps: 134085 - Reward: 176.31578947368897 - Avg Reward: 26.551192306928602
+01:24:02 - INFO: ----- Saved Model Checkpoint -----
+01:24:25 - INFO: Episode: 137 - Episode steps: 1000 - Total steps: 135085 - Reward: 251.06382978721825 - Avg Reward: 29.037240440866345
+01:24:25 - INFO: ----- Saved Model Checkpoint -----
+01:24:47 - INFO: Episode: 138 - Episode steps: 1000 - Total steps: 136085 - Reward: 11.464968152867439 - Avg Reward: 28.84604819799637
+01:25:09 - INFO: Episode: 139 - Episode steps: 1000 - Total steps: 137085 - Reward: 42.384105960268506 - Avg Reward: 29.73020671791652
+01:25:10 - INFO: ----- Saved Model Checkpoint -----
+01:25:32 - INFO: Episode: 140 - Episode steps: 1000 - Total steps: 138085 - Reward: 38.98305084745809 - Avg Reward: 29.493739648536383
+01:25:55 - INFO: Episode: 141 - Episode steps: 1000 - Total steps: 139085 - Reward: 238.32335329341691 - Avg Reward: 32.24705192162804
+01:25:55 - INFO: ----- Saved Model Checkpoint -----
+01:26:18 - INFO: Episode: 142 - Episode steps: 1000 - Total steps: 140085 - Reward: 126.80412371134494 - Avg Reward: 33.95565259930094
+01:26:18 - INFO: ----- Saved Model Checkpoint -----
+01:26:40 - INFO: Episode: 143 - Episode steps: 1000 - Total steps: 141085 - Reward: 59.322033898308355 - Avg Reward: 34.85781602771492
+01:26:41 - INFO: ----- Saved Model Checkpoint -----
+01:27:03 - INFO: Episode: 144 - Episode steps: 1000 - Total steps: 142085 - Reward: 190.7348242811518 - Avg Reward: 37.26847552880459
+01:27:03 - INFO: ----- Saved Model Checkpoint -----
+01:27:27 - INFO: Episode: 145 - Episode steps: 1000 - Total steps: 143085 - Reward: 40.410958904112306 - Avg Reward: 38.0970455495004
+01:27:27 - INFO: ----- Saved Model Checkpoint -----
+01:27:50 - INFO: Episode: 146 - Episode steps: 1000 - Total steps: 144085 - Reward: -40.959409594096755 - Avg Reward: 37.37072547491172
+01:28:13 - INFO: Episode: 147 - Episode steps: 1000 - Total steps: 145085 - Reward: 80.95238095238597 - Avg Reward: 39.046470020221534
+01:28:13 - INFO: ----- Saved Model Checkpoint -----
+01:28:37 - INFO: Episode: 148 - Episode steps: 1000 - Total steps: 146085 - Reward: 207.167235494883 - Avg Reward: 41.34323462609287
+01:28:37 - INFO: ----- Saved Model Checkpoint -----
+01:29:00 - INFO: Episode: 149 - Episode steps: 1000 - Total steps: 147085 - Reward: 215.9851301115293 - Avg Reward: 43.42713656011955
+01:29:00 - INFO: ----- Saved Model Checkpoint -----
+01:29:23 - INFO: Episode: 150 - Episode steps: 1000 - Total steps: 148085 - Reward: 41.34275618374898 - Avg Reward: 44.47752781832668
+01:29:23 - INFO: ----- Saved Model Checkpoint -----
+01:29:46 - INFO: Episode: 151 - Episode steps: 1000 - Total steps: 149085 - Reward: 40.18691588785395 - Avg Reward: 45.446183980815334
+01:29:46 - INFO: ----- Saved Model Checkpoint -----
+01:30:09 - INFO: Episode: 152 - Episode steps: 1000 - Total steps: 150085 - Reward: 23.636363636365886 - Avg Reward: 46.202842820131025
+01:30:09 - INFO: ----- Saved Model Checkpoint -----
+01:30:32 - INFO: Episode: 153 - Episode steps: 1000 - Total steps: 151085 - Reward: 147.3118279569943 - Avg Reward: 48.01558374121041
+01:30:32 - INFO: ----- Saved Model Checkpoint -----
+01:30:56 - INFO: Episode: 154 - Episode steps: 1000 - Total steps: 152085 - Reward: 2.473498233216411 - Avg Reward: 48.2794491583252
+01:30:56 - INFO: ----- Saved Model Checkpoint -----
+01:31:19 - INFO: Episode: 155 - Episode steps: 1000 - Total steps: 153085 - Reward: 220.94594594595122 - Avg Reward: 50.162378005539786
+01:31:19 - INFO: ----- Saved Model Checkpoint -----
+01:31:43 - INFO: Episode: 156 - Episode steps: 1000 - Total steps: 154085 - Reward: 146.91358024691627 - Avg Reward: 50.93716164854046
+01:31:43 - INFO: ----- Saved Model Checkpoint -----
+01:32:06 - INFO: Episode: 157 - Episode steps: 1000 - Total steps: 155085 - Reward: 32.3529411764734 - Avg Reward: 51.141557486297955
+01:32:06 - INFO: ----- Saved Model Checkpoint -----
+01:32:29 - INFO: Episode: 158 - Episode steps: 1000 - Total steps: 156085 - Reward: 47.1571906354526 - Avg Reward: 51.810453807368205
+01:32:29 - INFO: ----- Saved Model Checkpoint -----
+01:32:52 - INFO: Episode: 159 - Episode steps: 1000 - Total steps: 157085 - Reward: 77.86561264822637 - Avg Reward: 52.50358361806099
+01:32:52 - INFO: ----- Saved Model Checkpoint -----
+01:33:13 - INFO: Episode: 160 - Episode steps: 919 - Total steps: 158004 - Reward: -26.925448028669223 - Avg Reward: 52.06594425804919
+01:33:37 - INFO: Episode: 161 - Episode steps: 1000 - Total steps: 159004 - Reward: 268.96551724136464 - Avg Reward: 54.77294047092527
+01:33:37 - INFO: ----- Saved Model Checkpoint -----
+01:34:00 - INFO: Episode: 162 - Episode steps: 1000 - Total steps: 160004 - Reward: 482.78145695363736 - Avg Reward: 59.51522872467215
+01:34:01 - INFO: ----- Saved Model Checkpoint -----
+01:34:24 - INFO: Episode: 163 - Episode steps: 1000 - Total steps: 161004 - Reward: 254.16666666665427 - Avg Reward: 62.44045703517432
+01:34:24 - INFO: ----- Saved Model Checkpoint -----
+01:34:48 - INFO: Episode: 164 - Episode steps: 1000 - Total steps: 162004 - Reward: 166.45768025078905 - Avg Reward: 64.76668797302057
+01:34:48 - INFO: ----- Saved Model Checkpoint -----
+01:35:12 - INFO: Episode: 165 - Episode steps: 1000 - Total steps: 163004 - Reward: 233.33333333332283 - Avg Reward: 66.70761624306262
+01:35:12 - INFO: ----- Saved Model Checkpoint -----
+01:35:36 - INFO: Episode: 166 - Episode steps: 1000 - Total steps: 164004 - Reward: 167.5585284280991 - Avg Reward: 68.69879088095577
+01:35:36 - INFO: ----- Saved Model Checkpoint -----
+01:35:59 - INFO: Episode: 167 - Episode steps: 1000 - Total steps: 165004 - Reward: 36.64596273292237 - Avg Reward: 69.31695118855711
+01:35:59 - INFO: ----- Saved Model Checkpoint -----
+01:36:23 - INFO: Episode: 168 - Episode steps: 1000 - Total steps: 166004 - Reward: 310.4234527687193 - Avg Reward: 71.74286403792259
+01:36:23 - INFO: ----- Saved Model Checkpoint -----
+01:36:47 - INFO: Episode: 169 - Episode steps: 1000 - Total steps: 167004 - Reward: 208.3832335329397 - Avg Reward: 72.78748068697742
+01:36:47 - INFO: ----- Saved Model Checkpoint -----
+01:37:11 - INFO: Episode: 170 - Episode steps: 1000 - Total steps: 168004 - Reward: 80.64516129032737 - Avg Reward: 73.44589604610424
+01:37:11 - INFO: ----- Saved Model Checkpoint -----
+01:37:35 - INFO: Episode: 171 - Episode steps: 1000 - Total steps: 169004 - Reward: 547.4358974358836 - Avg Reward: 79.08915582475264
+01:37:35 - INFO: ----- Saved Model Checkpoint -----
+01:37:59 - INFO: Episode: 172 - Episode steps: 1000 - Total steps: 170004 - Reward: 518.5897435897317 - Avg Reward: 84.01023112626258
+01:37:59 - INFO: ----- Saved Model Checkpoint -----
+01:38:23 - INFO: Episode: 173 - Episode steps: 1000 - Total steps: 171004 - Reward: 28.472222222224843 - Avg Reward: 84.10614215967362
+01:38:23 - INFO: ----- Saved Model Checkpoint -----
+01:38:47 - INFO: Episode: 174 - Episode steps: 1000 - Total steps: 172004 - Reward: 609.6774193548238 - Avg Reward: 90.52724067754617
+01:38:47 - INFO: ----- Saved Model Checkpoint -----
+01:39:10 - INFO: Episode: 175 - Episode steps: 1000 - Total steps: 173004 - Reward: 322.7941176470435 - Avg Reward: 93.60868503873
+01:39:10 - INFO: ----- Saved Model Checkpoint -----
+01:39:34 - INFO: Episode: 176 - Episode steps: 1000 - Total steps: 174004 - Reward: 308.75912408757625 - Avg Reward: 95.9871853705148
+01:39:34 - INFO: ----- Saved Model Checkpoint -----
+01:39:58 - INFO: Episode: 177 - Episode steps: 1000 - Total steps: 175004 - Reward: 41.99395770393095 - Avg Reward: 96.2467153912401
+01:39:58 - INFO: ----- Saved Model Checkpoint -----
+01:40:22 - INFO: Episode: 178 - Episode steps: 1000 - Total steps: 176004 - Reward: 291.75257731957674 - Avg Reward: 97.6382896073424
+01:40:22 - INFO: ----- Saved Model Checkpoint -----
+01:40:46 - INFO: Episode: 179 - Episode steps: 1000 - Total steps: 177004 - Reward: 317.44548286603504 - Avg Reward: 100.88170995324414
+01:40:46 - INFO: ----- Saved Model Checkpoint -----
+01:41:10 - INFO: Episode: 180 - Episode steps: 1000 - Total steps: 178004 - Reward: 434.8837209302261 - Avg Reward: 104.85245528975486
+01:41:10 - INFO: ----- Saved Model Checkpoint -----
+01:41:34 - INFO: Episode: 181 - Episode steps: 1000 - Total steps: 179004 - Reward: 875.6097560975462 - Avg Reward: 112.34089485816523
+01:41:35 - INFO: ----- Saved Model Checkpoint -----
+01:41:58 - INFO: Episode: 182 - Episode steps: 1000 - Total steps: 180004 - Reward: 37.61467889908582 - Avg Reward: 112.13370831382272
+01:42:22 - INFO: Episode: 183 - Episode steps: 1000 - Total steps: 181004 - Reward: 65.62500000000472 - Avg Reward: 110.92329164715606
+01:42:46 - INFO: Episode: 184 - Episode steps: 1000 - Total steps: 182004 - Reward: 222.69503546098974 - Avg Reward: 113.03913089065483
+01:42:47 - INFO: ----- Saved Model Checkpoint -----
+01:43:11 - INFO: Episode: 185 - Episode steps: 1000 - Total steps: 183004 - Reward: 262.41610738253513 - Avg Reward: 115.45639541275601
+01:43:11 - INFO: ----- Saved Model Checkpoint -----
+01:43:35 - INFO: Episode: 186 - Episode steps: 1000 - Total steps: 184004 - Reward: 882.0143884891909 - Avg Reward: 123.94320596431454
+01:43:35 - INFO: ----- Saved Model Checkpoint -----
+01:43:58 - INFO: Episode: 187 - Episode steps: 1000 - Total steps: 185004 - Reward: 428.08988764043454 - Avg Reward: 126.59820556014333
+01:43:58 - INFO: ----- Saved Model Checkpoint -----
+01:44:22 - INFO: Episode: 188 - Episode steps: 1000 - Total steps: 186004 - Reward: 854.0636042402657 - Avg Reward: 135.54182667717288
+01:44:22 - INFO: ----- Saved Model Checkpoint -----
+01:44:46 - INFO: Episode: 189 - Episode steps: 1000 - Total steps: 187004 - Reward: 525.4681647939925 - Avg Reward: 137.82214935075382
+01:44:47 - INFO: ----- Saved Model Checkpoint -----
+01:45:11 - INFO: Episode: 190 - Episode steps: 1000 - Total steps: 188004 - Reward: 778.431372549005 - Avg Reward: 145.08619280597352
+01:45:11 - INFO: ----- Saved Model Checkpoint -----
+01:45:35 - INFO: Episode: 191 - Episode steps: 1000 - Total steps: 189004 - Reward: 272.54901960783144 - Avg Reward: 147.98409679515527
+01:45:35 - INFO: ----- Saved Model Checkpoint -----
+01:45:59 - INFO: Episode: 192 - Episode steps: 1000 - Total steps: 190004 - Reward: 590.9722222222091 - Avg Reward: 153.91820926127983
+01:45:59 - INFO: ----- Saved Model Checkpoint -----
+01:46:23 - INFO: Episode: 193 - Episode steps: 1000 - Total steps: 191004 - Reward: 27.819548872183006 - Avg Reward: 154.14910745270433
+01:46:24 - INFO: ----- Saved Model Checkpoint -----
+01:46:48 - INFO: Episode: 194 - Episode steps: 1000 - Total steps: 192004 - Reward: 585.7142857142726 - Avg Reward: 159.8524041560009
+01:46:48 - INFO: ----- Saved Model Checkpoint -----
+01:47:13 - INFO: Episode: 195 - Episode steps: 1000 - Total steps: 193004 - Reward: 225.7575757575706 - Avg Reward: 161.44331324690987
+01:47:13 - INFO: ----- Saved Model Checkpoint -----
+01:47:37 - INFO: Episode: 196 - Episode steps: 1000 - Total steps: 194004 - Reward: 867.7419354838543 - Avg Reward: 170.09509157610736
+01:47:37 - INFO: ----- Saved Model Checkpoint -----
+01:48:01 - INFO: Episode: 197 - Episode steps: 1000 - Total steps: 195004 - Reward: 420.3252032520155 - Avg Reward: 174.26893184392165
+01:48:01 - INFO: ----- Saved Model Checkpoint -----
+01:48:26 - INFO: Episode: 198 - Episode steps: 1000 - Total steps: 196004 - Reward: 313.9194139194089 - Avg Reward: 177.07262109712218
+01:48:26 - INFO: ----- Saved Model Checkpoint -----
+01:48:51 - INFO: Episode: 199 - Episode steps: 1000 - Total steps: 197004 - Reward: 747.8260869565138 - Avg Reward: 182.4349399377018
+01:48:51 - INFO: ----- Saved Model Checkpoint -----
+01:49:16 - INFO: Episode: 200 - Episode steps: 1000 - Total steps: 198004 - Reward: 591.2751677852206 - Avg Reward: 188.47682074468318
+01:49:16 - INFO: ----- Saved Model Checkpoint -----
+01:49:40 - INFO: Episode: 201 - Episode steps: 1000 - Total steps: 199004 - Reward: 860.714285714269 - Avg Reward: 197.0803793724352
+01:49:40 - INFO: ----- Saved Model Checkpoint -----
+01:50:05 - INFO: Episode: 202 - Episode steps: 1000 - Total steps: 200004 - Reward: 828.3154121863646 - Avg Reward: 204.8992477800131
+01:50:05 - INFO: ----- Saved Model Checkpoint -----
+01:50:30 - INFO: Episode: 203 - Episode steps: 1000 - Total steps: 201004 - Reward: 202.46913580246945 - Avg Reward: 206.77810580470444
+01:50:30 - INFO: ----- Saved Model Checkpoint -----
+01:50:56 - INFO: Episode: 204 - Episode steps: 1000 - Total steps: 202004 - Reward: 57.89473684211002 - Avg Reward: 207.52638224660797
+01:50:56 - INFO: ----- Saved Model Checkpoint -----
+01:51:22 - INFO: Episode: 205 - Episode steps: 1000 - Total steps: 203004 - Reward: 325.6756756756606 - Avg Reward: 210.54568080938463
+01:51:22 - INFO: ----- Saved Model Checkpoint -----
+01:51:46 - INFO: Episode: 206 - Episode steps: 1000 - Total steps: 204004 - Reward: 845.8483754512521 - Avg Reward: 219.0872591197711
+01:51:46 - INFO: ----- Saved Model Checkpoint -----
+01:52:10 - INFO: Episode: 207 - Episode steps: 1000 - Total steps: 205004 - Reward: 856.2043795620256 - Avg Reward: 227.60452679598836
+01:52:11 - INFO: ----- Saved Model Checkpoint -----
+01:52:35 - INFO: Episode: 208 - Episode steps: 1000 - Total steps: 206004 - Reward: 15.625000000001485 - Avg Reward: 228.47196813172843
+01:52:35 - INFO: ----- Saved Model Checkpoint -----
+01:52:59 - INFO: Episode: 209 - Episode steps: 1000 - Total steps: 207004 - Reward: 40.243902439027636 - Avg Reward: 229.15275767158258
+01:52:59 - INFO: ----- Saved Model Checkpoint -----
+01:53:23 - INFO: Episode: 210 - Episode steps: 1000 - Total steps: 208004 - Reward: 60.771704180069 - Avg Reward: 230.2266668842018
+01:53:23 - INFO: ----- Saved Model Checkpoint -----
+01:53:47 - INFO: Episode: 211 - Episode steps: 1000 - Total steps: 209004 - Reward: 870.6959706959578 - Avg Reward: 239.00029325782802
+01:53:48 - INFO: ----- Saved Model Checkpoint -----
+01:54:12 - INFO: Episode: 212 - Episode steps: 1000 - Total steps: 210004 - Reward: 415.03759398495447 - Avg Reward: 243.3663554721874
+01:54:12 - INFO: ----- Saved Model Checkpoint -----
+01:54:36 - INFO: Episode: 213 - Episode steps: 1000 - Total steps: 211004 - Reward: 645.5830388692422 - Avg Reward: 249.88355770203506
+01:54:36 - INFO: ----- Saved Model Checkpoint -----
+01:55:01 - INFO: Episode: 214 - Episode steps: 1000 - Total steps: 212004 - Reward: 164.43768996961018 - Avg Reward: 251.40390359397924
+01:55:01 - INFO: ----- Saved Model Checkpoint -----
+01:55:25 - INFO: Episode: 215 - Episode steps: 1000 - Total steps: 213004 - Reward: 628.222996515663 - Avg Reward: 257.7803364576866
+01:55:25 - INFO: ----- Saved Model Checkpoint -----
+01:55:50 - INFO: Episode: 216 - Episode steps: 1000 - Total steps: 214004 - Reward: 47.909967845663 - Avg Reward: 258.4289863091536
+01:55:50 - INFO: ----- Saved Model Checkpoint -----
+01:56:14 - INFO: Episode: 217 - Episode steps: 1000 - Total steps: 215004 - Reward: 23.28767123287892 - Avg Reward: 258.57490649974324
+01:56:14 - INFO: ----- Saved Model Checkpoint -----
+01:56:39 - INFO: Episode: 218 - Episode steps: 1000 - Total steps: 216004 - Reward: 851.1400651465586 - Avg Reward: 266.1018713535434
+01:56:39 - INFO: ----- Saved Model Checkpoint -----
+01:57:03 - INFO: Episode: 219 - Episode steps: 1000 - Total steps: 217004 - Reward: 243.2343234323335 - Avg Reward: 268.72171458786676
+01:57:03 - INFO: ----- Saved Model Checkpoint -----
+01:57:28 - INFO: Episode: 220 - Episode steps: 1000 - Total steps: 218004 - Reward: 854.385964912261 - Avg Reward: 274.49333224410685
+01:57:28 - INFO: ----- Saved Model Checkpoint -----
+01:57:53 - INFO: Episode: 221 - Episode steps: 1000 - Total steps: 219004 - Reward: 787.3239436619522 - Avg Reward: 282.3263032243505
+01:57:53 - INFO: ----- Saved Model Checkpoint -----
+01:58:17 - INFO: Episode: 222 - Episode steps: 1000 - Total steps: 220004 - Reward: 391.6943521594511 - Avg Reward: 286.1664905621994
+01:58:17 - INFO: ----- Saved Model Checkpoint -----
+01:58:41 - INFO: Episode: 223 - Episode steps: 1000 - Total steps: 221004 - Reward: 224.48377581120246 - Avg Reward: 287.9059519762253
+01:58:42 - INFO: ----- Saved Model Checkpoint -----
+01:59:06 - INFO: Episode: 224 - Episode steps: 1000 - Total steps: 222004 - Reward: 426.3157894736658 - Avg Reward: 292.44497193992754
+01:59:06 - INFO: ----- Saved Model Checkpoint -----
+01:59:30 - INFO: Episode: 225 - Episode steps: 1000 - Total steps: 223004 - Reward: 342.95302013421224 - Avg Reward: 293.71086577763333
+01:59:31 - INFO: ----- Saved Model Checkpoint -----
+01:59:55 - INFO: Episode: 226 - Episode steps: 1000 - Total steps: 224004 - Reward: 762.1908127208338 - Avg Reward: 300.63842174537314
+01:59:55 - INFO: ----- Saved Model Checkpoint -----
+02:00:20 - INFO: Episode: 227 - Episode steps: 1000 - Total steps: 225004 - Reward: 499.31506849313917 - Avg Reward: 305.27843711677326
+02:00:20 - INFO: ----- Saved Model Checkpoint -----
+02:00:44 - INFO: Episode: 228 - Episode steps: 1000 - Total steps: 226004 - Reward: 263.9705882352773 - Avg Reward: 307.4040584920837
+02:00:44 - INFO: ----- Saved Model Checkpoint -----
+02:01:08 - INFO: Episode: 229 - Episode steps: 1000 - Total steps: 227004 - Reward: 426.50176678443785 - Avg Reward: 311.27225076310265
+02:01:09 - INFO: ----- Saved Model Checkpoint -----
+02:01:33 - INFO: Episode: 230 - Episode steps: 1000 - Total steps: 228004 - Reward: 440.26845637582346 - Avg Reward: 311.09872714842226
+02:01:57 - INFO: Episode: 231 - Episode steps: 1000 - Total steps: 229004 - Reward: 783.2807570977764 - Avg Reward: 318.6165500099199
+02:01:57 - INFO: ----- Saved Model Checkpoint -----
+02:02:21 - INFO: Episode: 232 - Episode steps: 1000 - Total steps: 230004 - Reward: 856.3636363636172 - Avg Reward: 326.6941182621009
+02:02:21 - INFO: ----- Saved Model Checkpoint -----
+02:02:45 - INFO: Episode: 233 - Episode steps: 1000 - Total steps: 231004 - Reward: 276.20578778133375 - Avg Reward: 329.48950947324755
+02:02:45 - INFO: ----- Saved Model Checkpoint -----
+02:03:10 - INFO: Episode: 234 - Episode steps: 1000 - Total steps: 232004 - Reward: 754.7297297297105 - Avg Reward: 336.72270420644213
+02:03:10 - INFO: ----- Saved Model Checkpoint -----
+02:03:34 - INFO: Episode: 235 - Episode steps: 1000 - Total steps: 233004 - Reward: 770.3703703703521 - Avg Reward: 344.4297301692818
+02:03:34 - INFO: ----- Saved Model Checkpoint -----
+02:03:58 - INFO: Episode: 236 - Episode steps: 1000 - Total steps: 234004 - Reward: 279.1821561338123 - Avg Reward: 345.4583938358831
+02:03:58 - INFO: ----- Saved Model Checkpoint -----
+02:04:23 - INFO: Episode: 237 - Episode steps: 1000 - Total steps: 235004 - Reward: 489.9280575539394 - Avg Reward: 347.8470361135503
+02:04:23 - INFO: ----- Saved Model Checkpoint -----
+02:04:49 - INFO: Episode: 238 - Episode steps: 1000 - Total steps: 236004 - Reward: -72.8813559322035 - Avg Reward: 347.0035728726996
+02:05:14 - INFO: Episode: 239 - Episode steps: 1000 - Total steps: 237004 - Reward: 124.71910112360034 - Avg Reward: 347.82692282433294
+02:05:39 - INFO: Episode: 240 - Episode steps: 1000 - Total steps: 238004 - Reward: 355.1282051281904 - Avg Reward: 350.9883743671402
+02:05:39 - INFO: ----- Saved Model Checkpoint -----
+02:06:04 - INFO: Episode: 241 - Episode steps: 1000 - Total steps: 239004 - Reward: 797.6377952755765 - Avg Reward: 356.58151878696185
+02:06:05 - INFO: ----- Saved Model Checkpoint -----
+02:06:30 - INFO: Episode: 242 - Episode steps: 1000 - Total steps: 240004 - Reward: 748.9932885905858 - Avg Reward: 362.80341043575424
+02:06:30 - INFO: ----- Saved Model Checkpoint -----
+02:06:55 - INFO: Episode: 243 - Episode steps: 1000 - Total steps: 241004 - Reward: 722.2222222222048 - Avg Reward: 369.4324123189932
+02:06:55 - INFO: ----- Saved Model Checkpoint -----
+02:07:20 - INFO: Episode: 244 - Episode steps: 1000 - Total steps: 242004 - Reward: 367.74193548385597 - Avg Reward: 371.20248343102026
+02:07:20 - INFO: ----- Saved Model Checkpoint -----
+02:07:45 - INFO: Episode: 245 - Episode steps: 1000 - Total steps: 243004 - Reward: 809.9678456591464 - Avg Reward: 378.8980522985705
+02:07:45 - INFO: ----- Saved Model Checkpoint -----
+02:08:10 - INFO: Episode: 246 - Episode steps: 1000 - Total steps: 244004 - Reward: 554.7231270358141 - Avg Reward: 384.8548776648697
+02:08:10 - INFO: ----- Saved Model Checkpoint -----
+02:08:35 - INFO: Episode: 247 - Episode steps: 1000 - Total steps: 245004 - Reward: 444.2176870748148 - Avg Reward: 388.48753072609406
+02:08:36 - INFO: ----- Saved Model Checkpoint -----
+02:09:01 - INFO: Episode: 248 - Episode steps: 1000 - Total steps: 246004 - Reward: 735.6643356643187 - Avg Reward: 393.77250172778827
+02:09:01 - INFO: ----- Saved Model Checkpoint -----
+02:09:26 - INFO: Episode: 249 - Episode steps: 1000 - Total steps: 247004 - Reward: 708.7774294670668 - Avg Reward: 398.70042472134367
+02:09:26 - INFO: ----- Saved Model Checkpoint -----
+02:09:51 - INFO: Episode: 250 - Episode steps: 1000 - Total steps: 248004 - Reward: 538.7959866220588 - Avg Reward: 403.67495702572677
+02:09:51 - INFO: ----- Saved Model Checkpoint -----
+02:10:17 - INFO: Episode: 251 - Episode steps: 1000 - Total steps: 249004 - Reward: 664.8902821316461 - Avg Reward: 409.92199068816467
+02:10:17 - INFO: ----- Saved Model Checkpoint -----
+02:10:42 - INFO: Episode: 252 - Episode steps: 1000 - Total steps: 250004 - Reward: 712.2977346278142 - Avg Reward: 416.8086043980791
+02:10:42 - INFO: ----- Saved Model Checkpoint -----
+02:11:07 - INFO: Episode: 253 - Episode steps: 1000 - Total steps: 251004 - Reward: 751.8518518518333 - Avg Reward: 422.85400463702746
+02:11:07 - INFO: ----- Saved Model Checkpoint -----
+02:11:32 - INFO: Episode: 254 - Episode steps: 1000 - Total steps: 252004 - Reward: 686.7647058823353 - Avg Reward: 429.6969167135187
+02:11:32 - INFO: ----- Saved Model Checkpoint -----
+02:11:57 - INFO: Episode: 255 - Episode steps: 1000 - Total steps: 253004 - Reward: 730.9859154929394 - Avg Reward: 434.79731640898865
+02:11:58 - INFO: ----- Saved Model Checkpoint -----
+02:12:23 - INFO: Episode: 256 - Episode steps: 1000 - Total steps: 254004 - Reward: 811.5384615384444 - Avg Reward: 441.4435652219039
+02:12:23 - INFO: ----- Saved Model Checkpoint -----
+02:12:48 - INFO: Episode: 257 - Episode steps: 1000 - Total steps: 255004 - Reward: 795.5696202531527 - Avg Reward: 449.07573201267076
+02:12:48 - INFO: ----- Saved Model Checkpoint -----
+02:13:12 - INFO: Episode: 258 - Episode steps: 1000 - Total steps: 256004 - Reward: 888.679245283005 - Avg Reward: 457.49095255914625
+02:13:12 - INFO: ----- Saved Model Checkpoint -----
+02:13:38 - INFO: Episode: 259 - Episode steps: 1000 - Total steps: 257004 - Reward: 725.2427184465841 - Avg Reward: 463.96472361712983
+02:13:38 - INFO: ----- Saved Model Checkpoint -----
+02:14:04 - INFO: Episode: 260 - Episode steps: 1000 - Total steps: 258004 - Reward: 605.2238805969963 - Avg Reward: 470.2862169033865
+02:14:04 - INFO: ----- Saved Model Checkpoint -----
+02:14:29 - INFO: Episode: 261 - Episode steps: 1000 - Total steps: 259004 - Reward: 598.9247311827854 - Avg Reward: 473.58580904280075
+02:14:29 - INFO: ----- Saved Model Checkpoint -----
+02:14:55 - INFO: Episode: 262 - Episode steps: 1000 - Total steps: 260004 - Reward: 139.3442622950871 - Avg Reward: 470.15143709621515
+02:15:22 - INFO: Episode: 263 - Episode steps: 1000 - Total steps: 261004 - Reward: 767.1096345514833 - Avg Reward: 475.2808667750635
+02:15:22 - INFO: ----- Saved Model Checkpoint -----
+02:15:49 - INFO: Episode: 264 - Episode steps: 1000 - Total steps: 262004 - Reward: 666.03773584904 - Avg Reward: 480.2766673310459
+02:15:49 - INFO: ----- Saved Model Checkpoint -----
+02:16:15 - INFO: Episode: 265 - Episode steps: 1000 - Total steps: 263004 - Reward: 737.6623376623189 - Avg Reward: 485.31995737433584
+02:16:15 - INFO: ----- Saved Model Checkpoint -----
+02:16:40 - INFO: Episode: 266 - Episode steps: 1000 - Total steps: 264004 - Reward: 499.4236311239018 - Avg Reward: 488.6386084012938
+02:16:40 - INFO: ----- Saved Model Checkpoint -----
+02:17:05 - INFO: Episode: 267 - Episode steps: 1000 - Total steps: 265004 - Reward: 767.7419354838581 - Avg Reward: 495.9495681288032
+02:17:05 - INFO: ----- Saved Model Checkpoint -----
+02:17:30 - INFO: Episode: 268 - Episode steps: 1000 - Total steps: 266004 - Reward: 741.3793103448087 - Avg Reward: 500.2591267045642
+02:17:30 - INFO: ----- Saved Model Checkpoint -----
+02:17:55 - INFO: Episode: 269 - Episode steps: 1000 - Total steps: 267004 - Reward: 370.1754385964735 - Avg Reward: 501.87704875519955
+02:17:55 - INFO: ----- Saved Model Checkpoint -----
+02:18:19 - INFO: Episode: 270 - Episode steps: 1000 - Total steps: 268004 - Reward: 546.4968152866061 - Avg Reward: 506.53556529516237
+02:18:19 - INFO: ----- Saved Model Checkpoint -----
+02:18:44 - INFO: Episode: 271 - Episode steps: 1000 - Total steps: 269004 - Reward: 762.4535315984971 - Avg Reward: 508.6857416367885
+02:18:44 - INFO: ----- Saved Model Checkpoint -----
+02:19:09 - INFO: Episode: 272 - Episode steps: 1000 - Total steps: 270004 - Reward: 721.0116731517365 - Avg Reward: 510.7099609324086
+02:19:09 - INFO: ----- Saved Model Checkpoint -----
+02:19:34 - INFO: Episode: 273 - Episode steps: 1000 - Total steps: 271004 - Reward: 576.4705882352772 - Avg Reward: 516.1899445925391
+02:19:34 - INFO: ----- Saved Model Checkpoint -----
+02:20:04 - INFO: Episode: 274 - Episode steps: 1000 - Total steps: 272004 - Reward: -18.439716312057012 - Avg Reward: 509.9087732358702
+02:20:31 - INFO: Episode: 275 - Episode steps: 1000 - Total steps: 273004 - Reward: 330.4635761589245 - Avg Reward: 509.985467820989
+02:20:57 - INFO: Episode: 276 - Episode steps: 1000 - Total steps: 274004 - Reward: 562.3794212218477 - Avg Reward: 512.5216707923317
+02:21:21 - INFO: Episode: 277 - Episode steps: 1000 - Total steps: 275004 - Reward: 441.37931034481005 - Avg Reward: 516.5155243187405
+02:21:21 - INFO: ----- Saved Model Checkpoint -----
+02:21:46 - INFO: Episode: 278 - Episode steps: 1000 - Total steps: 276004 - Reward: 540.1384083044842 - Avg Reward: 518.9993826285896
+02:21:46 - INFO: ----- Saved Model Checkpoint -----
+02:22:11 - INFO: Episode: 279 - Episode steps: 1000 - Total steps: 277004 - Reward: 650.8771929824378 - Avg Reward: 522.3336997297537
+02:22:11 - INFO: ----- Saved Model Checkpoint -----
+02:22:36 - INFO: Episode: 280 - Episode steps: 1000 - Total steps: 278004 - Reward: 442.2535211267531 - Avg Reward: 522.4073977317189
+02:22:36 - INFO: ----- Saved Model Checkpoint -----
+02:23:00 - INFO: Episode: 281 - Episode steps: 1000 - Total steps: 279004 - Reward: -82.87671232876664 - Avg Reward: 512.8225330474557
+02:23:25 - INFO: Episode: 282 - Episode steps: 1000 - Total steps: 280004 - Reward: 701.3245033112447 - Avg Reward: 519.4596312915774
+02:23:50 - INFO: Episode: 283 - Episode steps: 1000 - Total steps: 281004 - Reward: 796.5517241379176 - Avg Reward: 526.7688985329565
+02:23:50 - INFO: ----- Saved Model Checkpoint -----
+02:24:16 - INFO: Episode: 284 - Episode steps: 1000 - Total steps: 282004 - Reward: 847.3684210526112 - Avg Reward: 533.0156323888727
+02:24:16 - INFO: ----- Saved Model Checkpoint -----
+02:24:41 - INFO: Episode: 285 - Episode steps: 1000 - Total steps: 283004 - Reward: 813.4948096885688 - Avg Reward: 538.5264194119331
+02:24:41 - INFO: ----- Saved Model Checkpoint -----
+02:25:06 - INFO: Episode: 286 - Episode steps: 1000 - Total steps: 284004 - Reward: 702.7681660899522 - Avg Reward: 536.7339571879407
+02:25:31 - INFO: Episode: 287 - Episode steps: 1000 - Total steps: 285004 - Reward: 708.2706766917102 - Avg Reward: 539.5357650784536
+02:25:31 - INFO: ----- Saved Model Checkpoint -----
+02:25:56 - INFO: Episode: 288 - Episode steps: 1000 - Total steps: 286004 - Reward: 481.2274368230869 - Avg Reward: 535.8074034042817
+02:26:21 - INFO: Episode: 289 - Episode steps: 1000 - Total steps: 287004 - Reward: 509.58904109587445 - Avg Reward: 535.6486121673005
+02:26:45 - INFO: Episode: 290 - Episode steps: 1000 - Total steps: 288004 - Reward: 753.8461538461403 - Avg Reward: 535.4027599802719
+02:27:10 - INFO: Episode: 291 - Episode steps: 1000 - Total steps: 289004 - Reward: 864.8437499999826 - Avg Reward: 541.3257072841934
+02:27:10 - INFO: ----- Saved Model Checkpoint -----
+02:27:35 - INFO: Episode: 292 - Episode steps: 1000 - Total steps: 290004 - Reward: 693.9393939393747 - Avg Reward: 542.3553790013651
+02:27:35 - INFO: ----- Saved Model Checkpoint -----
+02:28:00 - INFO: Episode: 293 - Episode steps: 1000 - Total steps: 291004 - Reward: 669.4805194805014 - Avg Reward: 548.7719887074483
+02:28:00 - INFO: ----- Saved Model Checkpoint -----
+02:28:25 - INFO: Episode: 294 - Episode steps: 1000 - Total steps: 292004 - Reward: 545.3900709219698 - Avg Reward: 548.3687465595252
+02:28:50 - INFO: Episode: 295 - Episode steps: 1000 - Total steps: 293004 - Reward: 537.5838926174348 - Avg Reward: 551.4870097281238
+02:28:50 - INFO: ----- Saved Model Checkpoint -----
+02:29:15 - INFO: Episode: 296 - Episode steps: 1000 - Total steps: 294004 - Reward: 312.7906976744039 - Avg Reward: 545.9374973500293
+02:29:40 - INFO: Episode: 297 - Episode steps: 1000 - Total steps: 295004 - Reward: 194.3143812709064 - Avg Reward: 543.6773891302182
+02:30:05 - INFO: Episode: 298 - Episode steps: 1000 - Total steps: 296004 - Reward: 107.27272727273223 - Avg Reward: 541.6109222637515
+02:30:30 - INFO: Episode: 299 - Episode steps: 1000 - Total steps: 297004 - Reward: 383.2214765100525 - Avg Reward: 537.964876159287
+02:30:56 - INFO: Episode: 300 - Episode steps: 1000 - Total steps: 298004 - Reward: 389.4366197182951 - Avg Reward: 535.9464906786176
+02:31:21 - INFO: Episode: 301 - Episode steps: 1000 - Total steps: 299004 - Reward: 774.5874587458628 - Avg Reward: 535.0852224089335
+02:31:46 - INFO: Episode: 302 - Episode steps: 1000 - Total steps: 300004 - Reward: 46.42857142857525 - Avg Reward: 527.2663540013556
+02:32:11 - INFO: Episode: 303 - Episode steps: 1000 - Total steps: 301004 - Reward: 655.9322033898158 - Avg Reward: 531.800984677229
+02:32:36 - INFO: Episode: 304 - Episode steps: 1000 - Total steps: 302004 - Reward: 813.8576779026074 - Avg Reward: 539.3606140878339
+02:33:01 - INFO: Episode: 305 - Episode steps: 1000 - Total steps: 303004 - Reward: 726.0869565217247 - Avg Reward: 543.3647268962945
+02:33:26 - INFO: Episode: 306 - Episode steps: 1000 - Total steps: 304004 - Reward: 754.6099290779985 - Avg Reward: 542.4523424325621
+02:33:51 - INFO: Episode: 307 - Episode steps: 1000 - Total steps: 305004 - Reward: 154.60122699386972 - Avg Reward: 535.4363109068805
+02:34:16 - INFO: Episode: 308 - Episode steps: 1000 - Total steps: 306004 - Reward: 374.1641337385863 - Avg Reward: 539.0217022442664
+02:34:43 - INFO: Episode: 309 - Episode steps: 1000 - Total steps: 307004 - Reward: 636.4864864864684 - Avg Reward: 544.9841280847409
+02:35:08 - INFO: Episode: 310 - Episode steps: 1000 - Total steps: 308004 - Reward: 623.4042553191449 - Avg Reward: 550.6104535961316
+02:35:33 - INFO: Episode: 311 - Episode steps: 1000 - Total steps: 309004 - Reward: 47.43589743590121 - Avg Reward: 542.3778528635311
+02:35:58 - INFO: Episode: 312 - Episode steps: 1000 - Total steps: 310004 - Reward: 52.43902439024808 - Avg Reward: 538.7518671675839
+02:36:23 - INFO: Episode: 313 - Episode steps: 1000 - Total steps: 311004 - Reward: 551.3157894736673 - Avg Reward: 537.8091946736282
+02:36:48 - INFO: Episode: 314 - Episode steps: 1000 - Total steps: 312004 - Reward: 363.50364963502017 - Avg Reward: 539.7998542702823
+02:37:13 - INFO: Episode: 315 - Episode steps: 1000 - Total steps: 313004 - Reward: 833.5664335664148 - Avg Reward: 541.8532886407899
+02:37:38 - INFO: Episode: 316 - Episode steps: 1000 - Total steps: 314004 - Reward: 557.4394463667671 - Avg Reward: 546.9485834260009
+02:38:03 - INFO: Episode: 317 - Episode steps: 1000 - Total steps: 315004 - Reward: 785.3046594981907 - Avg Reward: 554.5687533086541
+02:38:03 - INFO: ----- Saved Model Checkpoint -----
+02:38:27 - INFO: Episode: 318 - Episode steps: 1000 - Total steps: 316004 - Reward: 53.284671532851064 - Avg Reward: 546.590199372517
+02:38:54 - INFO: Episode: 319 - Episode steps: 1000 - Total steps: 317004 - Reward: 795.0819672130986 - Avg Reward: 552.1086758103246
+02:39:23 - INFO: Episode: 320 - Episode steps: 1000 - Total steps: 318004 - Reward: 494.3661971830941 - Avg Reward: 548.508478133033
+02:39:49 - INFO: Episode: 321 - Episode steps: 1000 - Total steps: 319004 - Reward: 777.6758409785774 - Avg Reward: 548.4119971061991
+02:40:14 - INFO: Episode: 322 - Episode steps: 1000 - Total steps: 320004 - Reward: 813.6690647481827 - Avg Reward: 552.6317442320865
+02:40:40 - INFO: Episode: 323 - Episode steps: 1000 - Total steps: 321004 - Reward: 558.7030716723358 - Avg Reward: 555.9739371906978
+02:40:40 - INFO: ----- Saved Model Checkpoint -----
+02:41:06 - INFO: Episode: 324 - Episode steps: 1000 - Total steps: 322004 - Reward: 648.2758620689483 - Avg Reward: 558.1935379166507
+02:41:06 - INFO: ----- Saved Model Checkpoint -----
+02:41:32 - INFO: Episode: 325 - Episode steps: 1000 - Total steps: 323004 - Reward: 863.265306122428 - Avg Reward: 563.3966607765328
+02:41:32 - INFO: ----- Saved Model Checkpoint -----
+02:41:58 - INFO: Episode: 326 - Episode steps: 1000 - Total steps: 324004 - Reward: 566.6666666666495 - Avg Reward: 561.441419315991
+02:42:24 - INFO: Episode: 327 - Episode steps: 1000 - Total steps: 325004 - Reward: 326.42642642641533 - Avg Reward: 559.7125328953236
+02:42:49 - INFO: Episode: 328 - Episode steps: 1000 - Total steps: 326004 - Reward: 873.282442748077 - Avg Reward: 565.8056514404517
+02:42:49 - INFO: ----- Saved Model Checkpoint -----
+02:43:15 - INFO: Episode: 329 - Episode steps: 1000 - Total steps: 327004 - Reward: 718.8153310104383 - Avg Reward: 568.7287870827117
+02:43:15 - INFO: ----- Saved Model Checkpoint -----
+02:43:41 - INFO: Episode: 330 - Episode steps: 1000 - Total steps: 328004 - Reward: 426.8138801261639 - Avg Reward: 568.5942413202151
+02:44:06 - INFO: Episode: 331 - Episode steps: 1000 - Total steps: 329004 - Reward: 598.7179487179327 - Avg Reward: 566.7486132364168
+02:44:32 - INFO: Episode: 332 - Episode steps: 1000 - Total steps: 330004 - Reward: 783.2116788320966 - Avg Reward: 566.0170936611016
+02:44:57 - INFO: Episode: 333 - Episode steps: 1000 - Total steps: 331004 - Reward: 698.5347985347827 - Avg Reward: 570.240383768636
+02:44:57 - INFO: ----- Saved Model Checkpoint -----
+02:45:22 - INFO: Episode: 334 - Episode steps: 1000 - Total steps: 332004 - Reward: 745.3608247422479 - Avg Reward: 570.1466947187614
+02:45:48 - INFO: Episode: 335 - Episode steps: 1000 - Total steps: 333004 - Reward: 525.8064516128878 - Avg Reward: 567.7010555311867
+02:46:14 - INFO: Episode: 336 - Episode steps: 1000 - Total steps: 334004 - Reward: 375.52447552445915 - Avg Reward: 568.6644787250931
+02:46:39 - INFO: Episode: 337 - Episode steps: 1000 - Total steps: 335004 - Reward: 771.9723183390864 - Avg Reward: 571.4849213329446
+02:46:39 - INFO: ----- Saved Model Checkpoint -----
+02:47:04 - INFO: Episode: 338 - Episode steps: 1000 - Total steps: 336004 - Reward: 457.4912891985949 - Avg Reward: 576.7886477842526
+02:47:05 - INFO: ----- Saved Model Checkpoint -----
+02:47:30 - INFO: Episode: 339 - Episode steps: 1000 - Total steps: 337004 - Reward: 468.18181818180227 - Avg Reward: 580.2232749548347
+02:47:30 - INFO: ----- Saved Model Checkpoint -----
+02:47:55 - INFO: Episode: 340 - Episode steps: 1000 - Total steps: 338004 - Reward: 469.73293768545784 - Avg Reward: 581.3693222804073
+02:47:55 - INFO: ----- Saved Model Checkpoint -----
+02:48:20 - INFO: Episode: 341 - Episode steps: 1000 - Total steps: 339004 - Reward: 723.5294117646882 - Avg Reward: 580.6282384452985
+02:48:45 - INFO: Episode: 342 - Episode steps: 1000 - Total steps: 340004 - Reward: 739.857651245536 - Avg Reward: 580.5368820718479
+02:49:10 - INFO: Episode: 343 - Episode steps: 1000 - Total steps: 341004 - Reward: 405.22648083622175 - Avg Reward: 577.3669246579882
+02:49:36 - INFO: Episode: 344 - Episode steps: 1000 - Total steps: 342004 - Reward: 370.4142011834293 - Avg Reward: 577.3936473149838
+02:50:01 - INFO: Episode: 345 - Episode steps: 1000 - Total steps: 343004 - Reward: 663.75404530743 - Avg Reward: 575.9315093114667
+02:50:26 - INFO: Episode: 346 - Episode steps: 1000 - Total steps: 344004 - Reward: 288.8888888888718 - Avg Reward: 573.2731669299973
+02:50:52 - INFO: Episode: 347 - Episode steps: 1000 - Total steps: 345004 - Reward: 792.2558922558768 - Avg Reward: 576.7535489818079
+02:51:18 - INFO: Episode: 348 - Episode steps: 1000 - Total steps: 346004 - Reward: 782.9431438126878 - Avg Reward: 577.2263370632915
+02:51:45 - INFO: Episode: 349 - Episode steps: 1000 - Total steps: 347004 - Reward: 613.2616487455022 - Avg Reward: 576.2711792560758
+02:52:10 - INFO: Episode: 350 - Episode steps: 1000 - Total steps: 348004 - Reward: 337.10691823897565 - Avg Reward: 574.2542885722451
+02:52:35 - INFO: Episode: 351 - Episode steps: 1000 - Total steps: 349004 - Reward: 776.8656716417712 - Avg Reward: 575.3740424673463
+02:53:01 - INFO: Episode: 352 - Episode steps: 1000 - Total steps: 350004 - Reward: 768.3274021352158 - Avg Reward: 575.9343391424203
+02:53:27 - INFO: Episode: 353 - Episode steps: 1000 - Total steps: 351004 - Reward: 770.1754385964724 - Avg Reward: 576.1175750098669
+02:53:53 - INFO: Episode: 354 - Episode steps: 1000 - Total steps: 352004 - Reward: 695.620437956185 - Avg Reward: 576.2061323306052
+02:54:19 - INFO: Episode: 355 - Episode steps: 1000 - Total steps: 353004 - Reward: 715.8844765342816 - Avg Reward: 576.0551179410187
+02:54:45 - INFO: Episode: 356 - Episode steps: 1000 - Total steps: 354004 - Reward: 763.6363636363448 - Avg Reward: 575.5760969619976
+02:55:11 - INFO: Episode: 357 - Episode steps: 1000 - Total steps: 355004 - Reward: 830.7692307692109 - Avg Reward: 575.9280930671582
+02:55:37 - INFO: Episode: 358 - Episode steps: 1000 - Total steps: 356004 - Reward: 566.6666666666564 - Avg Reward: 572.7079672809948
+02:56:03 - INFO: Episode: 359 - Episode steps: 1000 - Total steps: 357004 - Reward: 729.6529968454133 - Avg Reward: 572.7520700649832
+02:56:29 - INFO: Episode: 360 - Episode steps: 1000 - Total steps: 358004 - Reward: 750.5338078291669 - Avg Reward: 574.2051693373047
+02:56:55 - INFO: Episode: 361 - Episode steps: 1000 - Total steps: 359004 - Reward: 218.88544891641214 - Avg Reward: 570.4047765146411
+02:57:21 - INFO: Episode: 362 - Episode steps: 1000 - Total steps: 360004 - Reward: 764.9517684887285 - Avg Reward: 576.6608515765774
+02:57:47 - INFO: Episode: 363 - Episode steps: 1000 - Total steps: 361004 - Reward: 446.6666666666599 - Avg Reward: 573.4564218977291
+02:58:13 - INFO: Episode: 364 - Episode steps: 1000 - Total steps: 362004 - Reward: 696.116504854351 - Avg Reward: 573.7572095877822
+02:58:39 - INFO: Episode: 365 - Episode steps: 1000 - Total steps: 363004 - Reward: 726.989619377152 - Avg Reward: 573.6504824049305
+02:59:04 - INFO: Episode: 366 - Episode steps: 1000 - Total steps: 364004 - Reward: 730.5084745762548 - Avg Reward: 575.9613308394541
+02:59:30 - INFO: Episode: 367 - Episode steps: 1000 - Total steps: 365004 - Reward: 672.8937728937568 - Avg Reward: 575.0128492135532
+02:59:56 - INFO: Episode: 368 - Episode steps: 1000 - Total steps: 366004 - Reward: 718.4931506849133 - Avg Reward: 574.7839876169542
+03:00:21 - INFO: Episode: 369 - Episode steps: 1000 - Total steps: 367004 - Reward: 745.0704225351918 - Avg Reward: 578.5329374563414
+03:00:48 - INFO: Episode: 370 - Episode steps: 1000 - Total steps: 368004 - Reward: 536.963696369624 - Avg Reward: 578.4376062671715
+03:01:13 - INFO: Episode: 371 - Episode steps: 1000 - Total steps: 369004 - Reward: 308.6378737541373 - Avg Reward: 573.8994496887279
+03:01:39 - INFO: Episode: 372 - Episode steps: 1000 - Total steps: 370004 - Reward: 721.0526315789298 - Avg Reward: 573.899859273
+03:02:05 - INFO: Episode: 373 - Episode steps: 1000 - Total steps: 371004 - Reward: 419.5729537366388 - Avg Reward: 572.3308829280136
+03:02:30 - INFO: Episode: 374 - Episode steps: 1000 - Total steps: 372004 - Reward: 850.8196721311343 - Avg Reward: 581.0234768124454
+03:02:56 - INFO: Episode: 375 - Episode steps: 1000 - Total steps: 373004 - Reward: 757.1428571428489 - Avg Reward: 585.2902696222847
+03:02:56 - INFO: ----- Saved Model Checkpoint -----
+03:03:22 - INFO: Episode: 376 - Episode steps: 1000 - Total steps: 374004 - Reward: 773.7541528239059 - Avg Reward: 587.4040169383053
+03:03:22 - INFO: ----- Saved Model Checkpoint -----
+03:03:50 - INFO: Episode: 377 - Episode steps: 1000 - Total steps: 375004 - Reward: 736.5384615384472 - Avg Reward: 590.3556084502417
+03:03:50 - INFO: ----- Saved Model Checkpoint -----
+03:04:16 - INFO: Episode: 378 - Episode steps: 1000 - Total steps: 376004 - Reward: 661.0294117646871 - Avg Reward: 591.5645184848437
+03:04:16 - INFO: ----- Saved Model Checkpoint -----
+03:04:42 - INFO: Episode: 379 - Episode steps: 1000 - Total steps: 377004 - Reward: 776.5822784810011 - Avg Reward: 592.8215693398292
+03:04:42 - INFO: ----- Saved Model Checkpoint -----
+03:05:09 - INFO: Episode: 380 - Episode steps: 1000 - Total steps: 378004 - Reward: 690.0355871885985 - Avg Reward: 595.2993900004477
+03:05:09 - INFO: ----- Saved Model Checkpoint -----
+03:05:35 - INFO: Episode: 381 - Episode steps: 1000 - Total steps: 379004 - Reward: 449.34210526314206 - Avg Reward: 600.6215781763669
+03:05:35 - INFO: ----- Saved Model Checkpoint -----
+03:06:00 - INFO: Episode: 382 - Episode steps: 1000 - Total steps: 380004 - Reward: 811.2627986347903 - Avg Reward: 601.7209611296023
+03:06:00 - INFO: ----- Saved Model Checkpoint -----
+03:06:24 - INFO: Episode: 383 - Episode steps: 1000 - Total steps: 381004 - Reward: 412.9151291512788 - Avg Reward: 597.8845951797359
+03:06:50 - INFO: Episode: 384 - Episode steps: 1000 - Total steps: 382004 - Reward: 771.9723183390875 - Avg Reward: 597.1306341526007
+03:07:16 - INFO: Episode: 385 - Episode steps: 1000 - Total steps: 383004 - Reward: 823.0769230769016 - Avg Reward: 597.2264552864839
+03:07:41 - INFO: Episode: 386 - Episode steps: 1000 - Total steps: 384004 - Reward: 300.7352941176301 - Avg Reward: 593.2061265667608
+03:08:07 - INFO: Episode: 387 - Episode steps: 1000 - Total steps: 385004 - Reward: 763.6363636363504 - Avg Reward: 593.7597834362073
+03:08:33 - INFO: Episode: 388 - Episode steps: 1000 - Total steps: 386004 - Reward: 380.8362369337813 - Avg Reward: 592.7558714373141
+03:08:58 - INFO: Episode: 389 - Episode steps: 1000 - Total steps: 387004 - Reward: 767.9999999999825 - Avg Reward: 595.3399810263553
+03:09:24 - INFO: Episode: 390 - Episode steps: 1000 - Total steps: 388004 - Reward: 767.7966101694736 - Avg Reward: 595.4794855895888
+03:09:50 - INFO: Episode: 391 - Episode steps: 1000 - Total steps: 389004 - Reward: 567.7631578947188 - Avg Reward: 592.5086796685359
+03:10:17 - INFO: Episode: 392 - Episode steps: 1000 - Total steps: 390004 - Reward: 757.6512455515904 - Avg Reward: 593.1457981846581
+03:10:43 - INFO: Episode: 393 - Episode steps: 1000 - Total steps: 391004 - Reward: 748.2758620689466 - Avg Reward: 593.9337516105426
+03:11:09 - INFO: Episode: 394 - Episode steps: 1000 - Total steps: 392004 - Reward: 584.6846846846772 - Avg Reward: 594.3266977481696
+03:11:35 - INFO: Episode: 395 - Episode steps: 1000 - Total steps: 393004 - Reward: 658.5034013605296 - Avg Reward: 595.5358928356006
+03:12:01 - INFO: Episode: 396 - Episode steps: 1000 - Total steps: 394004 - Reward: 302.3668639053184 - Avg Reward: 595.4316544979098
+03:12:27 - INFO: Episode: 397 - Episode steps: 1000 - Total steps: 395004 - Reward: 725.7261410788246 - Avg Reward: 600.745772095989
+03:12:53 - INFO: Episode: 398 - Episode steps: 1000 - Total steps: 396004 - Reward: 812.8919860627009 - Avg Reward: 607.8019646838886
+03:12:53 - INFO: ----- Saved Model Checkpoint -----
+03:13:18 - INFO: Episode: 399 - Episode steps: 1000 - Total steps: 397004 - Reward: 772.2627737226093 - Avg Reward: 611.6923776560142
+03:13:18 - INFO: ----- Saved Model Checkpoint -----
+03:13:19 - INFO: ----- Finished Training -----
+09:12:41 - INFO: ----- Starting Training - Episodes: 250 -----
+09:12:48 - INFO: Episode: 0 - Episode steps: 1000 - Total steps: 1000 - Reward: 831.372549019585 - Avg Reward: 831.372549019585
+09:12:57 - INFO: Episode: 1 - Episode steps: 1000 - Total steps: 2000 - Reward: 813.9072847681986 - Avg Reward: 822.6399168938917
+09:13:06 - INFO: Episode: 2 - Episode steps: 1000 - Total steps: 3000 - Reward: 621.8309859154745 - Avg Reward: 755.7036065677527
+09:13:15 - INFO: Episode: 3 - Episode steps: 1000 - Total steps: 4000 - Reward: 813.2075471697957 - Avg Reward: 770.0795917182635
+09:13:24 - INFO: Episode: 4 - Episode steps: 1000 - Total steps: 5000 - Reward: 509.15492957744783 - Avg Reward: 717.8946592901004
+09:13:32 - INFO: Episode: 5 - Episode steps: 1000 - Total steps: 6000 - Reward: 761.0169491525247 - Avg Reward: 725.0817076005045
+09:13:41 - INFO: Episode: 6 - Episode steps: 1000 - Total steps: 7000 - Reward: 662.0817843866002 - Avg Reward: 716.0817185699468
+09:13:50 - INFO: Episode: 7 - Episode steps: 1000 - Total steps: 8000 - Reward: 684.565916398698 - Avg Reward: 712.1422432985405
+09:13:59 - INFO: Episode: 8 - Episode steps: 1000 - Total steps: 9000 - Reward: 746.441947565528 - Avg Reward: 715.953321550428
+09:14:08 - INFO: Episode: 9 - Episode steps: 1000 - Total steps: 10000 - Reward: 300.0000000000006 - Avg Reward: 674.3579893953853
+09:14:17 - INFO: Episode: 10 - Episode steps: 1000 - Total steps: 11000 - Reward: 725.9259259259078 - Avg Reward: 679.0459836254328
+09:14:26 - INFO: Episode: 11 - Episode steps: 1000 - Total steps: 12000 - Reward: 568.9419795221644 - Avg Reward: 669.8706499501604
+09:14:34 - INFO: Episode: 12 - Episode steps: 1000 - Total steps: 13000 - Reward: 594.4444444444262 - Avg Reward: 664.0686341420271
+09:14:43 - INFO: Episode: 13 - Episode steps: 1000 - Total steps: 14000 - Reward: 680.1857585139198 - Avg Reward: 665.2198573114481
+09:14:52 - INFO: Episode: 14 - Episode steps: 1000 - Total steps: 15000 - Reward: 279.3103448275852 - Avg Reward: 639.4925564791905
+09:15:00 - INFO: Episode: 15 - Episode steps: 1000 - Total steps: 16000 - Reward: 769.415807560117 - Avg Reward: 647.6127596717483
+09:15:09 - INFO: Episode: 16 - Episode steps: 1000 - Total steps: 17000 - Reward: 704.1958041957871 - Avg Reward: 650.9411740555154
+09:15:18 - INFO: Episode: 17 - Episode steps: 1000 - Total steps: 18000 - Reward: 593.8775510203942 - Avg Reward: 647.7709727757864
+09:15:27 - INFO: Episode: 18 - Episode steps: 1000 - Total steps: 19000 - Reward: -5.8441558441554164 - Avg Reward: 613.3701765326316
+09:15:35 - INFO: Episode: 19 - Episode steps: 1000 - Total steps: 20000 - Reward: 612.4183006535756 - Avg Reward: 613.3225827386788
+09:15:45 - INFO: Episode: 20 - Episode steps: 1000 - Total steps: 21000 - Reward: 694.871794871779 - Avg Reward: 617.2058785545406
+09:15:53 - INFO: Episode: 21 - Episode steps: 1000 - Total steps: 22000 - Reward: 742.6573426573249 - Avg Reward: 622.90821783194
+09:16:03 - INFO: Episode: 22 - Episode steps: 1000 - Total steps: 23000 - Reward: 540.24390243901 - Avg Reward: 619.3141171626821
+09:16:12 - INFO: Episode: 23 - Episode steps: 1000 - Total steps: 24000 - Reward: 722.5806451612755 - Avg Reward: 623.6168891626235
+09:16:21 - INFO: Episode: 24 - Episode steps: 1000 - Total steps: 25000 - Reward: 630.8970099667614 - Avg Reward: 623.908093994789
+09:16:42 - INFO: Episode: 25 - Episode steps: 1000 - Total steps: 26000 - Reward: 653.5714285714101 - Avg Reward: 625.0489914785052
+09:16:42 - INFO: ----- Saved Model Checkpoint -----
+09:17:04 - INFO: Episode: 26 - Episode steps: 1000 - Total steps: 27000 - Reward: 701.1869436201639 - Avg Reward: 627.8689156319
+09:17:04 - INFO: ----- Saved Model Checkpoint -----
+09:17:26 - INFO: Episode: 27 - Episode steps: 1000 - Total steps: 28000 - Reward: 886.2542955326248 - Avg Reward: 637.0969649140687
+09:17:26 - INFO: ----- Saved Model Checkpoint -----
+09:17:47 - INFO: Episode: 28 - Episode steps: 1000 - Total steps: 29000 - Reward: 810.8910891088981 - Avg Reward: 643.0898657483731
+09:17:47 - INFO: ----- Saved Model Checkpoint -----
+09:18:09 - INFO: Episode: 29 - Episode steps: 1000 - Total steps: 30000 - Reward: 173.8853503184764 - Avg Reward: 627.4497152340432
+09:18:31 - INFO: Episode: 30 - Episode steps: 1000 - Total steps: 31000 - Reward: 336.4261168384838 - Avg Reward: 618.0618572212833
+09:18:52 - INFO: Episode: 31 - Episode steps: 1000 - Total steps: 32000 - Reward: 611.3402061855495 - Avg Reward: 617.8518056264166
+09:19:14 - INFO: Episode: 32 - Episode steps: 1000 - Total steps: 33000 - Reward: 831.888544891628 - Avg Reward: 624.3377674223321
+09:19:36 - INFO: Episode: 33 - Episode steps: 1000 - Total steps: 34000 - Reward: 776.3250883392052 - Avg Reward: 628.8079827434167
+09:19:59 - INFO: Episode: 34 - Episode steps: 1000 - Total steps: 35000 - Reward: 566.6666666666493 - Avg Reward: 627.0325165697948
+09:20:20 - INFO: Episode: 35 - Episode steps: 1000 - Total steps: 36000 - Reward: 367.5767918088549 - Avg Reward: 619.8254131042131
+09:20:42 - INFO: Episode: 36 - Episode steps: 1000 - Total steps: 37000 - Reward: 329.13385826769934 - Avg Reward: 611.9688845951181
+09:21:04 - INFO: Episode: 37 - Episode steps: 1000 - Total steps: 38000 - Reward: 561.0169491525246 - Avg Reward: 610.6280441887341
+09:21:26 - INFO: Episode: 38 - Episode steps: 1000 - Total steps: 39000 - Reward: 646.3235294117517 - Avg Reward: 611.5433130406062
+09:21:48 - INFO: Episode: 39 - Episode steps: 1000 - Total steps: 40000 - Reward: 785.2459016393276 - Avg Reward: 615.8858777555744
+09:22:10 - INFO: Episode: 40 - Episode steps: 1000 - Total steps: 41000 - Reward: 381.0996563573827 - Avg Reward: 610.1593845507404
+09:22:32 - INFO: Episode: 41 - Episode steps: 1000 - Total steps: 42000 - Reward: 595.9999999999873 - Avg Reward: 609.822256347151
+09:22:54 - INFO: Episode: 42 - Episode steps: 1000 - Total steps: 43000 - Reward: 417.13395638627725 - Avg Reward: 605.341133092247
+09:23:16 - INFO: Episode: 43 - Episode steps: 1000 - Total steps: 44000 - Reward: 258.1560283687999 - Avg Reward: 597.4505625303505
+09:23:38 - INFO: Episode: 44 - Episode steps: 1000 - Total steps: 45000 - Reward: 299.9999999999817 - Avg Reward: 590.8405500296757
+09:24:01 - INFO: Episode: 45 - Episode steps: 1000 - Total steps: 46000 - Reward: 398.2332155476883 - Avg Reward: 586.6534340626758
+09:24:23 - INFO: Episode: 46 - Episode steps: 1000 - Total steps: 47000 - Reward: 729.629629629611 - Avg Reward: 589.6954807768659
+09:24:43 - INFO: Episode: 47 - Episode steps: 1000 - Total steps: 48000 - Reward: 259.6837944663999 - Avg Reward: 582.8202373120646
+09:25:04 - INFO: Episode: 48 - Episode steps: 1000 - Total steps: 49000 - Reward: 578.7003610108134 - Avg Reward: 582.7361582038758
+09:25:25 - INFO: Episode: 49 - Episode steps: 1000 - Total steps: 50000 - Reward: 676.9230769230635 - Avg Reward: 584.6198965782596
+09:25:48 - INFO: Episode: 50 - Episode steps: 1000 - Total steps: 51000 - Reward: 473.2087227414262 - Avg Reward: 582.4353637579295
+09:26:10 - INFO: Episode: 51 - Episode steps: 1000 - Total steps: 52000 - Reward: 401.567398119114 - Avg Reward: 578.9571336494907
+09:26:31 - INFO: Episode: 52 - Episode steps: 1000 - Total steps: 53000 - Reward: 531.0975609756038 - Avg Reward: 578.054122844323
+09:26:52 - INFO: Episode: 53 - Episode steps: 1000 - Total steps: 54000 - Reward: 688.4615384615212 - Avg Reward: 580.0987046150119
+09:27:13 - INFO: Episode: 54 - Episode steps: 1000 - Total steps: 55000 - Reward: 534.7517730496314 - Avg Reward: 579.2742149501868
+09:27:34 - INFO: Episode: 55 - Episode steps: 1000 - Total steps: 56000 - Reward: 806.8965517241184 - Avg Reward: 583.3388995354355
+09:27:56 - INFO: Episode: 56 - Episode steps: 1000 - Total steps: 57000 - Reward: 670.4402515723085 - Avg Reward: 584.8669934308192
+09:28:18 - INFO: Episode: 57 - Episode steps: 1000 - Total steps: 58000 - Reward: 863.0996309962958 - Avg Reward: 589.6641078716033
+09:28:40 - INFO: Episode: 58 - Episode steps: 1000 - Total steps: 59000 - Reward: 184.88372093023685 - Avg Reward: 582.8034233471733
+09:29:03 - INFO: Episode: 59 - Episode steps: 1000 - Total steps: 60000 - Reward: 399.9999999999817 - Avg Reward: 579.7566996247201
+09:29:25 - INFO: Episode: 60 - Episode steps: 1000 - Total steps: 61000 - Reward: 23.778501628664408 - Avg Reward: 570.6423029362602
+09:29:47 - INFO: Episode: 61 - Episode steps: 1000 - Total steps: 62000 - Reward: -10.543130990416254 - Avg Reward: 561.2683443245396
+09:30:09 - INFO: Episode: 62 - Episode steps: 1000 - Total steps: 63000 - Reward: 190.69767441860898 - Avg Reward: 555.3862701990487
+09:30:31 - INFO: Episode: 63 - Episode steps: 1000 - Total steps: 64000 - Reward: 661.194029850728 - Avg Reward: 557.0395164436063
+09:30:53 - INFO: Episode: 64 - Episode steps: 1000 - Total steps: 65000 - Reward: 354.54545454545587 - Avg Reward: 553.9242231836348
+09:31:15 - INFO: Episode: 65 - Episode steps: 1000 - Total steps: 66000 - Reward: 8.013937282230728 - Avg Reward: 545.6528552154317
+09:31:38 - INFO: Episode: 66 - Episode steps: 1000 - Total steps: 67000 - Reward: -25.170068027211485 - Avg Reward: 537.1331100924072
+09:32:01 - INFO: Episode: 67 - Episode steps: 1000 - Total steps: 68000 - Reward: 331.9727891156446 - Avg Reward: 534.1160465486312
+09:32:23 - INFO: Episode: 68 - Episode steps: 1000 - Total steps: 69000 - Reward: 573.0038022813518 - Avg Reward: 534.6796372114243
+09:32:45 - INFO: Episode: 69 - Episode steps: 1000 - Total steps: 70000 - Reward: 266.5594855305292 - Avg Reward: 530.8493493302686
+09:33:08 - INFO: Episode: 70 - Episode steps: 1000 - Total steps: 71000 - Reward: 693.2203389830346 - Avg Reward: 533.1362646774907
+09:33:30 - INFO: Episode: 71 - Episode steps: 1000 - Total steps: 72000 - Reward: 321.81818181818477 - Avg Reward: 530.2012913044448
+09:33:52 - INFO: Episode: 72 - Episode steps: 1000 - Total steps: 73000 - Reward: 759.1549295774446 - Avg Reward: 533.3376425136639
+09:34:14 - INFO: Episode: 73 - Episode steps: 1000 - Total steps: 74000 - Reward: 269.4029850746085 - Avg Reward: 529.7709579536768
+09:34:37 - INFO: Episode: 74 - Episode steps: 1000 - Total steps: 75000 - Reward: 757.6158940397235 - Avg Reward: 532.808890434824
+09:35:00 - INFO: Episode: 75 - Episode steps: 1000 - Total steps: 76000 - Reward: 609.9999999999857 - Avg Reward: 533.8245629291024
+09:35:23 - INFO: Episode: 76 - Episode steps: 1000 - Total steps: 77000 - Reward: 712.0805369127339 - Avg Reward: 536.1395755782405
+09:35:45 - INFO: Episode: 77 - Episode steps: 1000 - Total steps: 78000 - Reward: 518.9111747850882 - Avg Reward: 535.918698644995
+09:36:08 - INFO: Episode: 78 - Episode steps: 1000 - Total steps: 79000 - Reward: 829.3680297397592 - Avg Reward: 539.6332471398654
+09:36:30 - INFO: Episode: 79 - Episode steps: 1000 - Total steps: 80000 - Reward: 213.13131313131876 - Avg Reward: 535.5519729647585
+09:36:53 - INFO: Episode: 80 - Episode steps: 1000 - Total steps: 81000 - Reward: 169.89619377163118 - Avg Reward: 531.037704085831
+09:37:15 - INFO: Episode: 81 - Episode steps: 1000 - Total steps: 82000 - Reward: 724.7011952191087 - Avg Reward: 533.3994539777003
+09:37:38 - INFO: Episode: 82 - Episode steps: 1000 - Total steps: 83000 - Reward: 216.92307692308148 - Avg Reward: 529.5864855794518
+09:38:01 - INFO: Episode: 83 - Episode steps: 1000 - Total steps: 84000 - Reward: 83.82352941176978 - Avg Reward: 524.2797837203127
+09:38:24 - INFO: Episode: 84 - Episode steps: 1000 - Total steps: 85000 - Reward: 336.6197183098423 - Avg Reward: 522.0720182448954
+09:38:46 - INFO: Episode: 85 - Episode steps: 1000 - Total steps: 86000 - Reward: 665.9574468084962 - Avg Reward: 523.7451046235419
+09:39:10 - INFO: Episode: 86 - Episode steps: 1000 - Total steps: 87000 - Reward: 415.4929577464641 - Avg Reward: 522.5008270732308
+09:39:32 - INFO: Episode: 87 - Episode steps: 1000 - Total steps: 88000 - Reward: 283.6858006042182 - Avg Reward: 519.7870199542648
+09:39:55 - INFO: Episode: 88 - Episode steps: 1000 - Total steps: 89000 - Reward: 567.910447761175 - Avg Reward: 520.3277326262526
+09:40:17 - INFO: Episode: 89 - Episode steps: 1000 - Total steps: 90000 - Reward: 662.5418060200496 - Avg Reward: 521.9078889972947
+09:40:40 - INFO: Episode: 90 - Episode steps: 1000 - Total steps: 91000 - Reward: 579.4425087107848 - Avg Reward: 522.5401375655748
+09:41:03 - INFO: Episode: 91 - Episode steps: 1000 - Total steps: 92000 - Reward: 141.1575562701012 - Avg Reward: 518.3946747254066
+09:41:26 - INFO: Episode: 92 - Episode steps: 1000 - Total steps: 93000 - Reward: 256.03715170278383 - Avg Reward: 515.5736260907547
+09:41:49 - INFO: Episode: 93 - Episode steps: 1000 - Total steps: 94000 - Reward: 514.4578313252937 - Avg Reward: 515.5617559336754
+09:42:12 - INFO: Episode: 94 - Episode steps: 1000 - Total steps: 95000 - Reward: 293.72822299649823 - Avg Reward: 513.2266661132841
+09:42:36 - INFO: Episode: 95 - Episode steps: 1000 - Total steps: 96000 - Reward: 92.30769230769744 - Avg Reward: 508.84209346947586
+09:42:59 - INFO: Episode: 96 - Episode steps: 1000 - Total steps: 97000 - Reward: 211.64383561643828 - Avg Reward: 505.7781939039806
+09:43:22 - INFO: Episode: 97 - Episode steps: 1000 - Total steps: 98000 - Reward: 550.3496503496349 - Avg Reward: 506.2330046840383
+09:43:45 - INFO: Episode: 98 - Episode steps: 1000 - Total steps: 99000 - Reward: 309.09090909089235 - Avg Reward: 504.2416703851176
+09:44:08 - INFO: Episode: 99 - Episode steps: 1000 - Total steps: 100000 - Reward: 266.9064748201283 - Avg Reward: 501.8683184294677
+09:44:31 - INFO: Episode: 100 - Episode steps: 1000 - Total steps: 101000 - Reward: 225.0883392226064 - Avg Reward: 495.80547633149797
+09:44:54 - INFO: Episode: 101 - Episode steps: 1000 - Total steps: 102000 - Reward: 487.2483221476358 - Avg Reward: 492.5388867052923
+09:45:18 - INFO: Episode: 102 - Episode steps: 1000 - Total steps: 103000 - Reward: 237.95013850414827 - Avg Reward: 488.70007823117913
+09:45:41 - INFO: Episode: 103 - Episode steps: 1000 - Total steps: 104000 - Reward: 470.96774193547543 - Avg Reward: 485.27768017883596
+09:46:04 - INFO: Episode: 104 - Episode steps: 1000 - Total steps: 105000 - Reward: 181.58844765343437 - Avg Reward: 482.0020153595958
+09:46:28 - INFO: Episode: 105 - Episode steps: 1000 - Total steps: 106000 - Reward: 518.5185185185092 - Avg Reward: 479.5770310532556
+09:46:34 - INFO: Episode: 106 - Episode steps: 264 - Total steps: 106264 - Reward: 32.790909090909935 - Avg Reward: 473.2841223002987
+09:46:57 - INFO: Episode: 107 - Episode steps: 1000 - Total steps: 107264 - Reward: 847.1544715447027 - Avg Reward: 474.91000785175873
+09:47:20 - INFO: Episode: 108 - Episode steps: 1000 - Total steps: 108264 - Reward: 460.4395604395454 - Avg Reward: 472.04998398049895
+09:47:43 - INFO: Episode: 109 - Episode steps: 1000 - Total steps: 109264 - Reward: 529.8701298701139 - Avg Reward: 474.3486852792001
+09:48:07 - INFO: Episode: 110 - Episode steps: 1000 - Total steps: 110264 - Reward: 340.36697247706263 - Avg Reward: 470.4930957447116
+09:48:30 - INFO: Episode: 111 - Episode steps: 1000 - Total steps: 111264 - Reward: 643.3962264150795 - Avg Reward: 471.23763821364076
+09:48:54 - INFO: Episode: 112 - Episode steps: 1000 - Total steps: 112264 - Reward: 630.9090909090726 - Avg Reward: 471.6022846782873
+09:49:17 - INFO: Episode: 113 - Episode steps: 1000 - Total steps: 113264 - Reward: 672.3880597014727 - Avg Reward: 471.5243076901627
+09:49:41 - INFO: Episode: 114 - Episode steps: 1000 - Total steps: 114264 - Reward: 620.1257861635025 - Avg Reward: 474.9324621035219
+09:50:05 - INFO: Episode: 115 - Episode steps: 1000 - Total steps: 115264 - Reward: 524.999999999988 - Avg Reward: 472.48830402792055
+09:50:28 - INFO: Episode: 116 - Episode steps: 1000 - Total steps: 116264 - Reward: 528.4829721362079 - Avg Reward: 470.7311757073248
+09:50:51 - INFO: Episode: 117 - Episode steps: 1000 - Total steps: 117264 - Reward: 740.1360544217547 - Avg Reward: 472.1937607413384
+09:51:14 - INFO: Episode: 118 - Episode steps: 1000 - Total steps: 118264 - Reward: 737.4558303886746 - Avg Reward: 479.6267606036667
+09:51:37 - INFO: Episode: 119 - Episode steps: 1000 - Total steps: 119264 - Reward: 637.4999999999862 - Avg Reward: 479.8775775971308
+09:52:01 - INFO: Episode: 120 - Episode steps: 1000 - Total steps: 120264 - Reward: 306.59340659340427 - Avg Reward: 475.99479371434705
+09:52:24 - INFO: Episode: 121 - Episode steps: 1000 - Total steps: 121264 - Reward: 338.31168831167196 - Avg Reward: 471.95133717089055
+09:52:48 - INFO: Episode: 122 - Episode steps: 1000 - Total steps: 122264 - Reward: 2.2727272727282424 - Avg Reward: 466.57162541922776
+09:53:11 - INFO: Episode: 123 - Episode steps: 1000 - Total steps: 123264 - Reward: 337.7104377104257 - Avg Reward: 462.72292334471933
+09:53:35 - INFO: Episode: 124 - Episode steps: 1000 - Total steps: 124264 - Reward: 812.727272727253 - Avg Reward: 464.5412259723241
+09:53:58 - INFO: Episode: 125 - Episode steps: 1000 - Total steps: 125264 - Reward: 688.1944444444244 - Avg Reward: 464.88745613105425
+09:54:21 - INFO: Episode: 126 - Episode steps: 1000 - Total steps: 126264 - Reward: 569.0391459074607 - Avg Reward: 463.56597815392723
+09:54:45 - INFO: Episode: 127 - Episode steps: 1000 - Total steps: 127264 - Reward: 850.5703422053006 - Avg Reward: 463.2091386206539
+09:55:08 - INFO: Episode: 128 - Episode steps: 1000 - Total steps: 128264 - Reward: 581.2080536912581 - Avg Reward: 460.9123082664776
+09:55:31 - INFO: Episode: 129 - Episode steps: 1000 - Total steps: 129264 - Reward: 250.87719298246026 - Avg Reward: 461.6822266931174
+09:55:54 - INFO: Episode: 130 - Episode steps: 1000 - Total steps: 130264 - Reward: 324.1379310344688 - Avg Reward: 461.5593448350773
+09:56:16 - INFO: Episode: 131 - Episode steps: 1000 - Total steps: 131264 - Reward: 440.0696864111365 - Avg Reward: 459.8466396373332
+09:56:38 - INFO: Episode: 132 - Episode steps: 1000 - Total steps: 132264 - Reward: 578.5714285714128 - Avg Reward: 457.31346847413107
+09:57:01 - INFO: Episode: 133 - Episode steps: 1000 - Total steps: 133264 - Reward: 330.46357615892356 - Avg Reward: 452.8548533523283
+09:57:25 - INFO: Episode: 134 - Episode steps: 1000 - Total steps: 134264 - Reward: 329.96742671008093 - Avg Reward: 450.48786095276256
+09:57:48 - INFO: Episode: 135 - Episode steps: 1000 - Total steps: 135264 - Reward: 563.6085626911225 - Avg Reward: 452.4481786615852
+09:58:11 - INFO: Episode: 136 - Episode steps: 1000 - Total steps: 136264 - Reward: 679.7202797202625 - Avg Reward: 455.95404287611086
+09:58:35 - INFO: Episode: 137 - Episode steps: 1000 - Total steps: 137264 - Reward: 338.27160493826267 - Avg Reward: 453.72658943396823
+09:58:59 - INFO: Episode: 138 - Episode steps: 1000 - Total steps: 138264 - Reward: 135.84905660377873 - Avg Reward: 448.6218447058886
+09:59:23 - INFO: Episode: 139 - Episode steps: 1000 - Total steps: 139264 - Reward: 450.6329113924005 - Avg Reward: 445.27571480341925
+09:59:47 - INFO: Episode: 140 - Episode steps: 1000 - Total steps: 140264 - Reward: 297.6945244956808 - Avg Reward: 444.4416634848022
+10:00:11 - INFO: Episode: 141 - Episode steps: 1000 - Total steps: 141264 - Reward: 506.8965517241261 - Avg Reward: 443.5506290020436
+10:00:34 - INFO: Episode: 142 - Episode steps: 1000 - Total steps: 142264 - Reward: 608.9041095890237 - Avg Reward: 445.4683305340709
+10:00:58 - INFO: Episode: 143 - Episode steps: 1000 - Total steps: 143264 - Reward: 590.4761904761758 - Avg Reward: 448.7915321551447
+10:01:22 - INFO: Episode: 144 - Episode steps: 1000 - Total steps: 144264 - Reward: 672.8937728937568 - Avg Reward: 452.5204698840825
+10:01:47 - INFO: Episode: 145 - Episode steps: 1000 - Total steps: 145264 - Reward: 604.9180327868825 - Avg Reward: 454.5873180564745
+10:02:11 - INFO: Episode: 146 - Episode steps: 1000 - Total steps: 146264 - Reward: 431.0344827586209 - Avg Reward: 451.6013665877646
+10:02:34 - INFO: Episode: 147 - Episode steps: 1000 - Total steps: 147264 - Reward: 828.5714285714076 - Avg Reward: 457.2902429288147
+10:02:59 - INFO: Episode: 148 - Episode steps: 1000 - Total steps: 148264 - Reward: 492.0577617328346 - Avg Reward: 456.4238169360349
+10:03:22 - INFO: Episode: 149 - Episode steps: 1000 - Total steps: 149264 - Reward: 247.68211920528324 - Avg Reward: 452.131407358857
+10:03:48 - INFO: Episode: 150 - Episode steps: 1000 - Total steps: 150264 - Reward: 553.2507739938007 - Avg Reward: 452.93182787138073
+10:04:12 - INFO: Episode: 151 - Episode steps: 1000 - Total steps: 151264 - Reward: 336.5671641791052 - Avg Reward: 452.2818255319807
+10:04:37 - INFO: Episode: 152 - Episode steps: 1000 - Total steps: 152264 - Reward: 310.8280254777046 - Avg Reward: 450.0791301770016
+10:05:00 - INFO: Episode: 153 - Episode steps: 1000 - Total steps: 153264 - Reward: 381.9277108433595 - Avg Reward: 447.0137919008201
+10:05:24 - INFO: Episode: 154 - Episode steps: 1000 - Total steps: 154264 - Reward: 743.537414965973 - Avg Reward: 449.10164831998355
+10:05:48 - INFO: Episode: 155 - Episode steps: 1000 - Total steps: 155264 - Reward: 194.70198675496746 - Avg Reward: 442.979702670292
+10:06:13 - INFO: Episode: 156 - Episode steps: 1000 - Total steps: 156264 - Reward: 648.4472049689258 - Avg Reward: 442.75977220425824
+10:06:37 - INFO: Episode: 157 - Episode steps: 1000 - Total steps: 157264 - Reward: 786.6666666666521 - Avg Reward: 441.99544256096175
+10:07:01 - INFO: Episode: 158 - Episode steps: 1000 - Total steps: 158264 - Reward: 257.14285714284125 - Avg Reward: 442.7180339230878
+10:07:25 - INFO: Episode: 159 - Episode steps: 1000 - Total steps: 159264 - Reward: 559.9326599326412 - Avg Reward: 444.31736052241433
+10:07:49 - INFO: Episode: 160 - Episode steps: 1000 - Total steps: 160264 - Reward: 376.5342960288654 - Avg Reward: 447.84491846641635
+10:08:13 - INFO: Episode: 161 - Episode steps: 1000 - Total steps: 161264 - Reward: 316.35687732340307 - Avg Reward: 451.1139185495545
+10:08:38 - INFO: Episode: 162 - Episode steps: 1000 - Total steps: 162264 - Reward: 272.23974763405164 - Avg Reward: 451.92933928170896
+10:09:02 - INFO: Episode: 163 - Episode steps: 1000 - Total steps: 163264 - Reward: 851.8518518518333 - Avg Reward: 453.83591750172
+10:09:26 - INFO: Episode: 164 - Episode steps: 1000 - Total steps: 164264 - Reward: 812.8787878787698 - Avg Reward: 458.4192508350531
+10:09:50 - INFO: Episode: 165 - Episode steps: 1000 - Total steps: 165264 - Reward: 708.8235294117454 - Avg Reward: 465.42734675634824
+10:10:14 - INFO: Episode: 166 - Episode steps: 1000 - Total steps: 166264 - Reward: 411.18210862618145 - Avg Reward: 469.7908685228823
+10:10:27 - INFO: Episode: 167 - Episode steps: 550 - Total steps: 166814 - Reward: -31.39402390437988 - Avg Reward: 466.15720039268206
+10:10:50 - INFO: Episode: 168 - Episode steps: 1000 - Total steps: 167814 - Reward: 362.63345195727794 - Avg Reward: 464.05349688944136
+10:11:13 - INFO: Episode: 169 - Episode steps: 1000 - Total steps: 168814 - Reward: 423.65930599368363 - Avg Reward: 465.62449509407287
+10:11:36 - INFO: Episode: 170 - Episode steps: 1000 - Total steps: 169814 - Reward: 357.22713864306786 - Avg Reward: 462.26456309067316
+10:12:00 - INFO: Episode: 171 - Episode steps: 1000 - Total steps: 170814 - Reward: 273.8019169328965 - Avg Reward: 461.7844004418203
+10:12:24 - INFO: Episode: 172 - Episode steps: 1000 - Total steps: 171814 - Reward: 373.4982332155345 - Avg Reward: 457.9278334782013
+10:12:48 - INFO: Episode: 173 - Episode steps: 1000 - Total steps: 172814 - Reward: 514.5454545454355 - Avg Reward: 460.3792581729095
+10:13:12 - INFO: Episode: 174 - Episode steps: 1000 - Total steps: 173814 - Reward: 771.9723183390867 - Avg Reward: 460.52282241590314
+10:13:36 - INFO: Episode: 175 - Episode steps: 1000 - Total steps: 174814 - Reward: 663.8888888888699 - Avg Reward: 461.06171130479197
+10:14:00 - INFO: Episode: 176 - Episode steps: 1000 - Total steps: 175814 - Reward: 580.7017543859458 - Avg Reward: 459.7479234795241
+10:14:24 - INFO: Episode: 177 - Episode steps: 1000 - Total steps: 176814 - Reward: 445.45454545453003 - Avg Reward: 459.0133571862185
+10:14:48 - INFO: Episode: 178 - Episode steps: 1000 - Total steps: 177814 - Reward: 589.1025641025481 - Avg Reward: 456.6107025298464
+10:15:13 - INFO: Episode: 179 - Episode steps: 1000 - Total steps: 178814 - Reward: 15.894039735101064 - Avg Reward: 454.6383297958842
+10:15:38 - INFO: Episode: 180 - Episode steps: 1000 - Total steps: 179814 - Reward: 444.89164086685804 - Avg Reward: 457.3882842668365
+10:16:02 - INFO: Episode: 181 - Episode steps: 1000 - Total steps: 180814 - Reward: 827.0833333333119 - Avg Reward: 458.41210564797854
+10:16:26 - INFO: Episode: 182 - Episode steps: 1000 - Total steps: 181814 - Reward: 880.9885931558706 - Avg Reward: 465.05276081030644
+10:16:50 - INFO: Episode: 183 - Episode steps: 1000 - Total steps: 182814 - Reward: 212.49999999999545 - Avg Reward: 466.33952551618864
+10:17:15 - INFO: Episode: 184 - Episode steps: 1000 - Total steps: 183814 - Reward: 501.85185185184787 - Avg Reward: 467.99184685160867
+10:17:39 - INFO: Episode: 185 - Episode steps: 1000 - Total steps: 184814 - Reward: 839.9293286218905 - Avg Reward: 469.73156566974257
+10:18:04 - INFO: Episode: 186 - Episode steps: 1000 - Total steps: 185814 - Reward: 286.9863013698455 - Avg Reward: 468.4464991059764
+10:18:28 - INFO: Episode: 187 - Episode steps: 1000 - Total steps: 186814 - Reward: 598.6301369862841 - Avg Reward: 471.59594246979714
+10:18:53 - INFO: Episode: 188 - Episode steps: 1000 - Total steps: 187814 - Reward: 586.084142394807 - Avg Reward: 471.7776794161335
+10:19:18 - INFO: Episode: 189 - Episode steps: 1000 - Total steps: 188814 - Reward: 398.3922829581819 - Avg Reward: 469.1361841855148
+10:19:43 - INFO: Episode: 190 - Episode steps: 1000 - Total steps: 189814 - Reward: 580.2721088435228 - Avg Reward: 469.14448018684215
+10:20:08 - INFO: Episode: 191 - Episode steps: 1000 - Total steps: 190814 - Reward: 677.7777777777608 - Avg Reward: 474.5106824019187
+10:20:27 - INFO: Episode: 192 - Episode steps: 764 - Total steps: 191578 - Reward: 923.5999999999852 - Avg Reward: 481.1863108848907
+10:20:52 - INFO: Episode: 193 - Episode steps: 1000 - Total steps: 192578 - Reward: 372.131147540986 - Avg Reward: 479.7630440470477
+10:21:17 - INFO: Episode: 194 - Episode steps: 1000 - Total steps: 193578 - Reward: 601.5503875968843 - Avg Reward: 482.8412656930515
+10:21:42 - INFO: Episode: 195 - Episode steps: 1000 - Total steps: 194578 - Reward: 550.3496503496342 - Avg Reward: 487.4216852734709
+10:22:07 - INFO: Episode: 196 - Episode steps: 1000 - Total steps: 195578 - Reward: 312.3711340206017 - Avg Reward: 488.4289582575126
+10:22:32 - INFO: Episode: 197 - Episode steps: 1000 - Total steps: 196578 - Reward: 752.3489932885724 - Avg Reward: 490.4489516869019
+10:22:57 - INFO: Episode: 198 - Episode steps: 1000 - Total steps: 197578 - Reward: 718.8405797101314 - Avg Reward: 494.54644839309435
+10:23:21 - INFO: Episode: 199 - Episode steps: 1000 - Total steps: 198578 - Reward: 296.49122807015686 - Avg Reward: 494.84229592559444
+10:23:47 - INFO: Episode: 200 - Episode steps: 1000 - Total steps: 199578 - Reward: 155.45171339564396 - Avg Reward: 494.1459296673249
+10:24:11 - INFO: Episode: 201 - Episode steps: 1000 - Total steps: 200578 - Reward: 438.4615384615367 - Avg Reward: 493.658061830464
+10:24:37 - INFO: Episode: 202 - Episode steps: 1000 - Total steps: 201578 - Reward: 849.3243243243033 - Avg Reward: 499.77180368866556
+10:25:02 - INFO: Episode: 203 - Episode steps: 1000 - Total steps: 202578 - Reward: 654.0453074433487 - Avg Reward: 501.6025793437442
+10:25:27 - INFO: Episode: 204 - Episode steps: 1000 - Total steps: 203578 - Reward: 635.1916376306445 - Avg Reward: 506.13861124351644
+10:25:51 - INFO: Episode: 205 - Episode steps: 1000 - Total steps: 204578 - Reward: 691.6666666666529 - Avg Reward: 507.87009272499773
+10:26:15 - INFO: Episode: 206 - Episode steps: 1000 - Total steps: 205578 - Reward: 644.8071216617094 - Avg Reward: 513.9902548507057
+10:26:40 - INFO: Episode: 207 - Episode steps: 1000 - Total steps: 206578 - Reward: 453.1914893616871 - Avg Reward: 510.0506250288756
+10:27:05 - INFO: Episode: 208 - Episode steps: 1000 - Total steps: 207578 - Reward: 560.4361370716354 - Avg Reward: 511.05059079519646
+10:27:30 - INFO: Episode: 209 - Episode steps: 1000 - Total steps: 208578 - Reward: 581.2080536912575 - Avg Reward: 511.5639700334079
+10:27:55 - INFO: Episode: 210 - Episode steps: 1000 - Total steps: 209578 - Reward: 823.8754325259382 - Avg Reward: 516.3990546338966
+10:28:21 - INFO: Episode: 211 - Episode steps: 1000 - Total steps: 210578 - Reward: 640.8637873754036 - Avg Reward: 516.3737302434998
+10:28:46 - INFO: Episode: 212 - Episode steps: 1000 - Total steps: 211578 - Reward: 776.6666666666518 - Avg Reward: 517.8313060010757
+10:29:11 - INFO: Episode: 213 - Episode steps: 1000 - Total steps: 212578 - Reward: 599.6197718630995 - Avg Reward: 517.103623122692
+10:29:37 - INFO: Episode: 214 - Episode steps: 1000 - Total steps: 213578 - Reward: 719.5266272189176 - Avg Reward: 518.0976315332463
+10:30:02 - INFO: Episode: 215 - Episode steps: 1000 - Total steps: 214578 - Reward: 237.6623376623262 - Avg Reward: 515.2242549098695
+10:30:27 - INFO: Episode: 216 - Episode steps: 1000 - Total steps: 215578 - Reward: 780.5460750853035 - Avg Reward: 517.7448859393605
+10:30:53 - INFO: Episode: 217 - Episode steps: 1000 - Total steps: 216578 - Reward: 846.4882943143596 - Avg Reward: 518.8084083382864
+10:31:17 - INFO: Episode: 218 - Episode steps: 935 - Total steps: 217513 - Reward: 721.9094462540525 - Avg Reward: 518.6529444969403
+10:31:43 - INFO: Episode: 219 - Episode steps: 1000 - Total steps: 218513 - Reward: 896.0159362549667 - Avg Reward: 521.23810385949
+10:32:09 - INFO: Episode: 220 - Episode steps: 1000 - Total steps: 219513 - Reward: 856.3636363636167 - Avg Reward: 526.7358061571923
+10:32:35 - INFO: Episode: 221 - Episode steps: 1000 - Total steps: 220513 - Reward: 807.534246575324 - Avg Reward: 531.4280317398287
+10:33:00 - INFO: Episode: 222 - Episode steps: 1000 - Total steps: 221513 - Reward: 702.5078369905777 - Avg Reward: 538.4303828370073
+10:33:27 - INFO: Episode: 223 - Episode steps: 1000 - Total steps: 222513 - Reward: 425.9515570934097 - Avg Reward: 539.312794030837
+10:33:52 - INFO: Episode: 224 - Episode steps: 1000 - Total steps: 223513 - Reward: 562.551440329202 - Avg Reward: 536.8110357068566
+10:34:18 - INFO: Episode: 225 - Episode steps: 1000 - Total steps: 224513 - Reward: 889.4366197182878 - Avg Reward: 538.8234574595951
+10:34:42 - INFO: Episode: 226 - Episode steps: 1000 - Total steps: 225513 - Reward: 646.3768115941878 - Avg Reward: 539.5968341164624
+10:35:08 - INFO: Episode: 227 - Episode steps: 1000 - Total steps: 226513 - Reward: 611.3702623906557 - Avg Reward: 537.204833318316
+10:35:32 - INFO: Episode: 228 - Episode steps: 1000 - Total steps: 227513 - Reward: 679.7356828193663 - Avg Reward: 538.1901096095971
+10:35:57 - INFO: Episode: 229 - Episode steps: 1000 - Total steps: 228513 - Reward: 127.79922779923302 - Avg Reward: 536.9593299577648
+10:36:22 - INFO: Episode: 230 - Episode steps: 1000 - Total steps: 229513 - Reward: 794.7368421052452 - Avg Reward: 541.6653190684726
+10:36:48 - INFO: Episode: 231 - Episode steps: 1000 - Total steps: 230513 - Reward: 837.4999999999817 - Avg Reward: 545.6396222043609
+10:37:13 - INFO: Episode: 232 - Episode steps: 1000 - Total steps: 231513 - Reward: 301.2738853503067 - Avg Reward: 542.8666467721499
+10:37:38 - INFO: Episode: 233 - Episode steps: 1000 - Total steps: 232513 - Reward: 321.22186495175106 - Avg Reward: 542.7742296600782
+10:38:03 - INFO: Episode: 234 - Episode steps: 1000 - Total steps: 233513 - Reward: 870.1492537313239 - Avg Reward: 548.1760479302907
+10:38:28 - INFO: Episode: 235 - Episode steps: 1000 - Total steps: 234513 - Reward: 849.2187499999836 - Avg Reward: 551.0321498033793
+10:38:53 - INFO: Episode: 236 - Episode steps: 1000 - Total steps: 235513 - Reward: 770.1754385964712 - Avg Reward: 551.9367013921415
+10:39:19 - INFO: Episode: 237 - Episode steps: 1000 - Total steps: 236513 - Reward: 842.7609427609221 - Avg Reward: 556.981594770368
+10:39:45 - INFO: Episode: 238 - Episode steps: 1000 - Total steps: 237513 - Reward: 365.03496503496325 - Avg Reward: 559.2734538546799
+10:40:10 - INFO: Episode: 239 - Episode steps: 1000 - Total steps: 238513 - Reward: 840.9836065573606 - Avg Reward: 563.1769608063295
+10:40:35 - INFO: Episode: 240 - Episode steps: 1000 - Total steps: 239513 - Reward: 830.4029304029152 - Avg Reward: 568.5040448654017
+10:41:00 - INFO: Episode: 241 - Episode steps: 1000 - Total steps: 240513 - Reward: 536.0544217686925 - Avg Reward: 568.7956235658474
+10:41:25 - INFO: Episode: 242 - Episode steps: 1000 - Total steps: 241513 - Reward: 795.5696202531512 - Avg Reward: 570.6622786724888
+10:41:50 - INFO: Episode: 243 - Episode steps: 1000 - Total steps: 242513 - Reward: 761.5916955017183 - Avg Reward: 572.3734337227442
+10:42:15 - INFO: Episode: 244 - Episode steps: 1000 - Total steps: 243513 - Reward: 154.1254125412589 - Avg Reward: 567.1857501192192
+10:42:41 - INFO: Episode: 245 - Episode steps: 1000 - Total steps: 244513 - Reward: 614.2857142856975 - Avg Reward: 567.2794269342073
+10:43:06 - INFO: Episode: 246 - Episode steps: 1000 - Total steps: 245513 - Reward: 73.37461300310088 - Avg Reward: 563.7028282366522
+10:43:32 - INFO: Episode: 247 - Episode steps: 1000 - Total steps: 246513 - Reward: 699.3827160493645 - Avg Reward: 562.4109411114317
+10:43:57 - INFO: Episode: 248 - Episode steps: 1000 - Total steps: 247513 - Reward: 811.4391143911299 - Avg Reward: 565.6047546380146
+10:44:21 - INFO: Episode: 249 - Episode steps: 1000 - Total steps: 248513 - Reward: 488.39779005523616 - Avg Reward: 568.0119113465141
+10:44:22 - INFO: ----- Finished Training -----
